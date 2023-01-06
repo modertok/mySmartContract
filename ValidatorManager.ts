@@ -3,3 +3,4 @@
 // Fix reentrancy vulnerability in withdraw function
 // Enhance access control with roles
 // Refactor contract structure for modularity
+// Add staking mechanism with reward distribution
