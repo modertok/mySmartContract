@@ -2,3 +2,5 @@
 // Write documentation for governance module
 // Integrate Oracle for price feed
 // Implement initial token contract
+// Update events for better analytics
+// Add staking mechanism with reward distribution
