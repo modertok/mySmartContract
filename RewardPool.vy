@@ -4,3 +4,4 @@
 // Implement initial token contract
 // Update events for better analytics
 // Add staking mechanism with reward distribution
+// Integrate Oracle for price feed
