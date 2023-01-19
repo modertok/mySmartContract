@@ -4,3 +4,4 @@
 // Add ownership modifiers to contract
 // Write tests for staking contract
 // Write documentation for governance module
+// Add governance proposal voting contract
