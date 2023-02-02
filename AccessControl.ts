@@ -4,3 +4,4 @@
 // Refactor contract structure for modularity
 // Update events for better analytics
 // Implement initial token contract
+// Implement initial token contract
