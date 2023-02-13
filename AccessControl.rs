@@ -4,3 +4,4 @@
 // Update events for better analytics
 // Write tests for staking contract
 // Fix overflow bug in reward calculator
+// Update events for better analytics
