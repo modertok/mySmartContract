@@ -7,3 +7,4 @@
 // Fix overflow bug in reward calculator
 // Implement slashing mechanism for validators
 // Write documentation for governance module
+// Optimize gas usage for batch transfers
