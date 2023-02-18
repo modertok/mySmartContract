@@ -4,3 +4,4 @@
 // Enhance access control with roles
 // Fix overflow bug in reward calculator
 // Add ownership modifiers to contract
+// Add governance proposal voting contract
