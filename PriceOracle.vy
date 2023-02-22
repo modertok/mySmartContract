@@ -9,3 +9,4 @@
 // Fix overflow bug in reward calculator
 // Update events for better analytics
 // Write documentation for governance module
+// Add ownership modifiers to contract
