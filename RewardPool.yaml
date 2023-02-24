@@ -2,3 +2,5 @@
 // Optimize gas usage for batch transfers
 // Refactor contract structure for modularity
 // Implement slashing mechanism for validators
+// Add governance proposal voting contract
+// Update events for better analytics
