@@ -3,3 +3,4 @@
 // Enhance access control with roles
 // Add staking mechanism with reward distribution
 // Add staking mechanism with reward distribution
+// Implement slashing mechanism for validators
