@@ -11,3 +11,4 @@
 // Write documentation for governance module
 // Refactor contract structure for modularity
 // Enhance access control with roles
+// Add governance proposal voting contract
