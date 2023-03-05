@@ -6,3 +6,5 @@
 // Add staking mechanism with reward distribution
 // Write documentation for governance module
 // Enhance access control with roles
+// Add emergency withdraw functionality
+// Update events for better analytics
