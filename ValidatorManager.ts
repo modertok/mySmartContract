@@ -10,3 +10,5 @@
 // Update events for better analytics
 // Fix reentrancy vulnerability in withdraw function
 // Enhance access control with roles
+// Implement initial token contract
+// Refactor contract structure for modularity
