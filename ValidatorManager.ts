@@ -12,3 +12,5 @@
 // Enhance access control with roles
 // Implement initial token contract
 // Refactor contract structure for modularity
+// Fix reentrancy vulnerability in withdraw function
+// Add ownership modifiers to contract
