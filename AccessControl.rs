@@ -5,3 +5,5 @@
 // Write tests for staking contract
 // Fix overflow bug in reward calculator
 // Update events for better analytics
+// Add ownership modifiers to contract
+// Enhance access control with roles
