@@ -3,3 +3,4 @@
 // Optimize gas usage for batch transfers
 // Add ownership modifiers to contract
 // Add ownership modifiers to contract
+// Implement slashing mechanism for validators
