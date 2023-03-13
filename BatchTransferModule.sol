@@ -4,3 +4,4 @@
 // Add ownership modifiers to contract
 // Add ownership modifiers to contract
 // Implement slashing mechanism for validators
+// Enhance access control with roles
