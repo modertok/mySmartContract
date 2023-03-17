@@ -1,2 +1,4 @@
 // Fix overflow bug in reward calculator
 // Write documentation for governance module
+// Add emergency withdraw functionality
+// Enhance access control with roles
