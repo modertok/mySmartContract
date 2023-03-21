@@ -3,3 +3,4 @@
 // Add emergency withdraw functionality
 // Integrate Oracle for price feed
 // Implement slashing mechanism for validators
+// Fix reentrancy vulnerability in withdraw function
