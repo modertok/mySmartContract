@@ -12,3 +12,4 @@
 // Add governance proposal voting contract
 // Write tests for staking contract
 // Integrate Oracle for price feed
+// Add ownership modifiers to contract
