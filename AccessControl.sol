@@ -6,3 +6,4 @@
 // Optimize gas usage for batch transfers
 // Implement slashing mechanism for validators
 // Fix reentrancy vulnerability in withdraw function
+// Refactor contract structure for modularity
