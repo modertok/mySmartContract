@@ -3,3 +3,4 @@
 // Implement initial token contract
 // Write tests for staking contract
 // Add governance proposal voting contract
+// Fix overflow bug in reward calculator
