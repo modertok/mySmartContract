@@ -4,3 +4,4 @@
 // Write tests for staking contract
 // Implement slashing mechanism for validators
 // Add emergency withdraw functionality
+// Add governance proposal voting contract
