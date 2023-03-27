@@ -5,3 +5,5 @@
 // Implement slashing mechanism for validators
 // Add emergency withdraw functionality
 // Add governance proposal voting contract
+// Add governance proposal voting contract
+// Implement initial token contract
