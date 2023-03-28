@@ -7,3 +7,4 @@
 // Fix reentrancy vulnerability in withdraw function
 // Optimize gas usage for batch transfers
 // Enhance access control with roles
+// Add governance proposal voting contract
