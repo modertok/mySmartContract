@@ -6,3 +6,4 @@
 // Integrate Oracle for price feed
 // Fix reentrancy vulnerability in withdraw function
 // Optimize gas usage for batch transfers
+// Enhance access control with roles
