@@ -4,3 +4,4 @@
 // Add emergency withdraw functionality
 // Optimize gas usage for batch transfers
 // Write documentation for governance module
+// Integrate Oracle for price feed
