@@ -5,3 +5,5 @@
 // Write documentation for governance module
 // Write documentation for governance module
 // Add governance proposal voting contract
+// Refactor contract structure for modularity
+// Add ownership modifiers to contract
