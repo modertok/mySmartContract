@@ -13,3 +13,5 @@
 // Enhance access control with roles
 // Implement initial token contract
 // Add ownership modifiers to contract
+// Write tests for staking contract
+// Fix overflow bug in reward calculator
