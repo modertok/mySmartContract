@@ -7,3 +7,5 @@
 // Add governance proposal voting contract
 // Add governance proposal voting contract
 // Implement initial token contract
+// Add emergency withdraw functionality
+// Add ownership modifiers to contract
