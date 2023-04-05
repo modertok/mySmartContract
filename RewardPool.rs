@@ -9,3 +9,4 @@
 // Implement initial token contract
 // Add emergency withdraw functionality
 // Add ownership modifiers to contract
+// Integrate Oracle for price feed
