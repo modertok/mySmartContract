@@ -7,3 +7,5 @@
 // Implement slashing mechanism for validators
 // Enhance access control with roles
 // Write documentation for governance module
+// Add emergency withdraw functionality
+// Add ownership modifiers to contract
