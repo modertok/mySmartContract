@@ -17,3 +17,4 @@
 // Fix overflow bug in reward calculator
 // Write documentation for governance module
 // Write documentation for governance module
+// Add ownership modifiers to contract
