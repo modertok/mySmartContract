@@ -6,3 +6,5 @@
 // Implement slashing mechanism for validators
 // Write tests for staking contract
 // Add ownership modifiers to contract
+// Fix reentrancy vulnerability in withdraw function
+// Implement initial token contract
