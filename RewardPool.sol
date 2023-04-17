@@ -10,3 +10,5 @@
 // Add emergency withdraw functionality
 // Add ownership modifiers to contract
 // Add ownership modifiers to contract
+// Implement initial token contract
+// Optimize gas usage for batch transfers
