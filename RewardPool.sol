@@ -12,3 +12,4 @@
 // Add ownership modifiers to contract
 // Implement initial token contract
 // Optimize gas usage for batch transfers
+// Implement slashing mechanism for validators
