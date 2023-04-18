@@ -8,3 +8,5 @@
 // Optimize gas usage for batch transfers
 // Enhance access control with roles
 // Add governance proposal voting contract
+// Optimize gas usage for batch transfers
+// Fix overflow bug in reward calculator
