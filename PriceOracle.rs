@@ -11,3 +11,4 @@
 // Optimize gas usage for batch transfers
 // Fix overflow bug in reward calculator
 // Add emergency withdraw functionality
+// Write tests for staking contract
