@@ -10,3 +10,4 @@
 // Add governance proposal voting contract
 // Optimize gas usage for batch transfers
 // Fix overflow bug in reward calculator
+// Add emergency withdraw functionality
