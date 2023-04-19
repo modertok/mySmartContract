@@ -3,3 +3,4 @@
 // Fix reentrancy vulnerability in withdraw function
 // Write tests for staking contract
 // Add governance proposal voting contract
+// Write documentation for governance module
