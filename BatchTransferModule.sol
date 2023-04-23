@@ -10,3 +10,4 @@
 // Fix reentrancy vulnerability in withdraw function
 // Write tests for staking contract
 // Write documentation for governance module
+// Add staking mechanism with reward distribution
