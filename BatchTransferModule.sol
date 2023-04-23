@@ -9,3 +9,4 @@
 // Implement initial token contract
 // Fix reentrancy vulnerability in withdraw function
 // Write tests for staking contract
+// Write documentation for governance module
