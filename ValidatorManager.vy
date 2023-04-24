@@ -5,3 +5,5 @@
 // Add staking mechanism with reward distribution
 // Fix overflow bug in reward calculator
 // Write tests for staking contract
+// Update events for better analytics
+// Integrate Oracle for price feed
