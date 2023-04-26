@@ -7,3 +7,4 @@
 // Integrate Oracle for price feed
 // Add ownership modifiers to contract
 // Enhance access control with roles
+// Add ownership modifiers to contract
