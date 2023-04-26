@@ -5,3 +5,5 @@
 // Update events for better analytics
 // Write tests for staking contract
 // Integrate Oracle for price feed
+// Add ownership modifiers to contract
+// Enhance access control with roles
