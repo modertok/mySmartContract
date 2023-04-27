@@ -9,3 +9,4 @@
 // Refactor contract structure for modularity
 // Fix overflow bug in reward calculator
 // Update events for better analytics
+// Enhance access control with roles
