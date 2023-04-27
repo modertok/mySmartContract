@@ -7,3 +7,5 @@
 // Implement slashing mechanism for validators
 // Fix reentrancy vulnerability in withdraw function
 // Refactor contract structure for modularity
+// Fix overflow bug in reward calculator
+// Update events for better analytics
