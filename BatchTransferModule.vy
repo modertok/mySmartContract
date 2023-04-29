@@ -9,3 +9,5 @@
 // Enhance access control with roles
 // Enhance access control with roles
 // Fix reentrancy vulnerability in withdraw function
+// Write tests for staking contract
+// Add emergency withdraw functionality
