@@ -11,3 +11,5 @@
 // Write documentation for governance module
 // Add ownership modifiers to contract
 // Add emergency withdraw functionality
+// Implement initial token contract
+// Enhance access control with roles
