@@ -11,3 +11,5 @@
 // Add ownership modifiers to contract
 // Enhance access control with roles
 // Optimize gas usage for batch transfers
+// Refactor contract structure for modularity
+// Integrate Oracle for price feed
