@@ -9,3 +9,4 @@
 // Integrate Oracle for price feed
 // Update events for better analytics
 // Write tests for staking contract
+// Optimize gas usage for batch transfers
