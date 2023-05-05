@@ -7,3 +7,5 @@
 // Write tests for staking contract
 // Update events for better analytics
 // Integrate Oracle for price feed
+// Update events for better analytics
+// Write tests for staking contract
