@@ -10,3 +10,5 @@
 // Add emergency withdraw functionality
 // Add ownership modifiers to contract
 // Integrate Oracle for price feed
+// Add ownership modifiers to contract
+// Enhance access control with roles
