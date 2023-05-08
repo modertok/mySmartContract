@@ -5,3 +5,5 @@
 // Update events for better analytics
 // Implement initial token contract
 // Implement initial token contract
+// Refactor contract structure for modularity
+// Refactor contract structure for modularity
