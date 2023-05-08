@@ -8,3 +8,4 @@
 // Refactor contract structure for modularity
 // Refactor contract structure for modularity
 // Write tests for staking contract
+// Enhance access control with roles
