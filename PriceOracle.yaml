@@ -20,3 +20,5 @@
 // Add ownership modifiers to contract
 // Optimize gas usage for batch transfers
 // Fix reentrancy vulnerability in withdraw function
+// Update events for better analytics
+// Integrate Oracle for price feed
