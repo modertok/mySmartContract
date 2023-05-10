@@ -6,3 +6,5 @@
 // Add staking mechanism with reward distribution
 // Integrate Oracle for price feed
 // Integrate Oracle for price feed
+// Write documentation for governance module
+// Add emergency withdraw functionality
