@@ -9,3 +9,4 @@
 // Write documentation for governance module
 // Add emergency withdraw functionality
 // Integrate Oracle for price feed
+// Fix overflow bug in reward calculator
