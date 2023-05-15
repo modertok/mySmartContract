@@ -11,3 +11,5 @@
 // Update events for better analytics
 // Enhance access control with roles
 // Add emergency withdraw functionality
+// Add ownership modifiers to contract
+// Add ownership modifiers to contract
