@@ -14,3 +14,4 @@
 // Add ownership modifiers to contract
 // Add ownership modifiers to contract
 // Add staking mechanism with reward distribution
+// Enhance access control with roles
