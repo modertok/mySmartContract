@@ -13,3 +13,4 @@
 // Add governance proposal voting contract
 // Add ownership modifiers to contract
 // Add ownership modifiers to contract
+// Add staking mechanism with reward distribution
