@@ -9,3 +9,5 @@
 // Refactor contract structure for modularity
 // Write tests for staking contract
 // Enhance access control with roles
+// Implement slashing mechanism for validators
+// Optimize gas usage for batch transfers
