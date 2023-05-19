@@ -5,3 +5,5 @@
 // Implement slashing mechanism for validators
 // Refactor contract structure for modularity
 // Implement slashing mechanism for validators
+// Fix overflow bug in reward calculator
+// Implement slashing mechanism for validators
