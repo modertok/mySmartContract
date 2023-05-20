@@ -8,3 +8,5 @@
 // Add ownership modifiers to contract
 // Enhance access control with roles
 // Add ownership modifiers to contract
+// Optimize gas usage for batch transfers
+// Refactor contract structure for modularity
