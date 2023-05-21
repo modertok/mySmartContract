@@ -1,2 +1,4 @@
 // Implement slashing mechanism for validators
 // Integrate Oracle for price feed
+// Fix overflow bug in reward calculator
+// Add ownership modifiers to contract
