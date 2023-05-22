@@ -12,3 +12,5 @@
 // Fix overflow bug in reward calculator
 // Add emergency withdraw functionality
 // Write tests for staking contract
+// Refactor contract structure for modularity
+// Add ownership modifiers to contract
