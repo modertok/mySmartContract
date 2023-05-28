@@ -6,3 +6,5 @@
 // Add emergency withdraw functionality
 // Update events for better analytics
 // Fix overflow bug in reward calculator
+// Implement initial token contract
+// Integrate Oracle for price feed
