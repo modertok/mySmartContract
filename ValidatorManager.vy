@@ -11,3 +11,5 @@
 // Write tests for staking contract
 // Optimize gas usage for batch transfers
 // Implement slashing mechanism for validators
+// Fix reentrancy vulnerability in withdraw function
+// Implement initial token contract
