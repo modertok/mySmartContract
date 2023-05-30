@@ -13,3 +13,5 @@
 // Add emergency withdraw functionality
 // Add ownership modifiers to contract
 // Add ownership modifiers to contract
+// Add ownership modifiers to contract
+// Fix overflow bug in reward calculator
