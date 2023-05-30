@@ -15,3 +15,4 @@
 // Add ownership modifiers to contract
 // Add ownership modifiers to contract
 // Fix overflow bug in reward calculator
+// Enhance access control with roles
