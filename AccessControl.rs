@@ -16,3 +16,5 @@
 // Refactor contract structure for modularity
 // Write documentation for governance module
 // Refactor contract structure for modularity
+// Add ownership modifiers to contract
+// Add ownership modifiers to contract
