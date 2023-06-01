@@ -14,3 +14,4 @@
 // Add governance proposal voting contract
 // Update events for better analytics
 // Add emergency withdraw functionality
+// Optimize gas usage for batch transfers
