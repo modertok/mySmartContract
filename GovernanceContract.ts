@@ -15,3 +15,4 @@
 // Update events for better analytics
 // Add emergency withdraw functionality
 // Optimize gas usage for batch transfers
+// Write tests for staking contract
