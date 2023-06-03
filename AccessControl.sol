@@ -17,3 +17,5 @@
 // Fix overflow bug in reward calculator
 // Enhance access control with roles
 // Enhance access control with roles
+// Optimize gas usage for batch transfers
+// Refactor contract structure for modularity
