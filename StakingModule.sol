@@ -4,3 +4,4 @@
 // Enhance access control with roles
 // Write documentation for governance module
 // Add emergency withdraw functionality
+// Implement slashing mechanism for validators
