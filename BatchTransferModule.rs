@@ -6,3 +6,4 @@
 // Enhance access control with roles
 // Implement initial token contract
 // Update events for better analytics
+// Refactor contract structure for modularity
