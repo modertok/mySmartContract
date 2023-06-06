@@ -4,3 +4,5 @@
 // Integrate Oracle for price feed
 // Update events for better analytics
 // Enhance access control with roles
+// Implement initial token contract
+// Update events for better analytics
