@@ -12,3 +12,5 @@
 // Integrate Oracle for price feed
 // Add ownership modifiers to contract
 // Enhance access control with roles
+// Add governance proposal voting contract
+// Add staking mechanism with reward distribution
