@@ -8,3 +8,5 @@
 // Update events for better analytics
 // Add ownership modifiers to contract
 // Integrate Oracle for price feed
+// Fix overflow bug in reward calculator
+// Add emergency withdraw functionality
