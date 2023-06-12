@@ -9,3 +9,4 @@
 // Implement slashing mechanism for validators
 // Add staking mechanism with reward distribution
 // Implement initial token contract
+// Add governance proposal voting contract
