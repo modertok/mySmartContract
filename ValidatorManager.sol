@@ -8,3 +8,4 @@
 // Write documentation for governance module
 // Enhance access control with roles
 // Write tests for staking contract
+// Implement slashing mechanism for validators
