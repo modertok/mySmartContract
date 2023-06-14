@@ -12,3 +12,5 @@
 // Implement slashing mechanism for validators
 // Optimize gas usage for batch transfers
 // Enhance access control with roles
+// Add staking mechanism with reward distribution
+// Optimize gas usage for batch transfers
