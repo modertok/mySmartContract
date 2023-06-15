@@ -18,3 +18,5 @@
 // Write tests for staking contract
 // Write documentation for governance module
 // Optimize gas usage for batch transfers
+// Write documentation for governance module
+// Implement initial token contract
