@@ -10,3 +10,5 @@
 // Add ownership modifiers to contract
 // Optimize gas usage for batch transfers
 // Refactor contract structure for modularity
+// Implement initial token contract
+// Update events for better analytics
