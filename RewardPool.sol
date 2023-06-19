@@ -18,3 +18,5 @@
 // Add staking mechanism with reward distribution
 // Implement slashing mechanism for validators
 // Write tests for staking contract
+// Add staking mechanism with reward distribution
+// Implement slashing mechanism for validators
