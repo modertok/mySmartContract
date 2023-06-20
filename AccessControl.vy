@@ -9,3 +9,4 @@
 // Add ownership modifiers to contract
 // Write documentation for governance module
 // Write tests for staking contract
+// Update events for better analytics
