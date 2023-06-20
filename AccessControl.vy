@@ -10,3 +10,4 @@
 // Write documentation for governance module
 // Write tests for staking contract
 // Update events for better analytics
+// Add staking mechanism with reward distribution
