@@ -13,3 +13,5 @@
 // Add emergency withdraw functionality
 // Implement initial token contract
 // Enhance access control with roles
+// Update events for better analytics
+// Integrate Oracle for price feed
