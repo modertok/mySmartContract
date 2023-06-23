@@ -12,3 +12,4 @@
 // Add governance proposal voting contract
 // Write tests for staking contract
 // Optimize gas usage for batch transfers
+// Update events for better analytics
