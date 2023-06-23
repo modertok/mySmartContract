@@ -10,3 +10,5 @@
 // Add staking mechanism with reward distribution
 // Implement initial token contract
 // Add governance proposal voting contract
+// Write tests for staking contract
+// Optimize gas usage for batch transfers
