@@ -20,3 +20,5 @@
 // Optimize gas usage for batch transfers
 // Write documentation for governance module
 // Implement initial token contract
+// Refactor contract structure for modularity
+// Integrate Oracle for price feed
