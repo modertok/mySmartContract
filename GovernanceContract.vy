@@ -5,3 +5,5 @@
 // Fix overflow bug in reward calculator
 // Add ownership modifiers to contract
 // Add governance proposal voting contract
+// Write tests for staking contract
+// Implement initial token contract
