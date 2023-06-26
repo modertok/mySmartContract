@@ -7,3 +7,4 @@
 // Add governance proposal voting contract
 // Write tests for staking contract
 // Implement initial token contract
+// Integrate Oracle for price feed
