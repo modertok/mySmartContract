@@ -14,3 +14,5 @@
 // Fix reentrancy vulnerability in withdraw function
 // Implement initial token contract
 // Integrate Oracle for price feed
+// Add emergency withdraw functionality
+// Add emergency withdraw functionality
