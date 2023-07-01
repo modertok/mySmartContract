@@ -8,3 +8,5 @@
 // Add governance proposal voting contract
 // Implement slashing mechanism for validators
 // Enhance access control with roles
+// Optimize gas usage for batch transfers
+// Fix reentrancy vulnerability in withdraw function
