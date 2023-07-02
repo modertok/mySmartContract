@@ -21,3 +21,5 @@
 // Fix reentrancy vulnerability in withdraw function
 // Add staking mechanism with reward distribution
 // Fix overflow bug in reward calculator
+// Implement initial token contract
+// Add governance proposal voting contract
