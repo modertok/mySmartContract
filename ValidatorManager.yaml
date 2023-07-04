@@ -8,3 +8,4 @@
 // Add governance proposal voting contract
 // Add emergency withdraw functionality
 // Fix overflow bug in reward calculator
+// Add ownership modifiers to contract
