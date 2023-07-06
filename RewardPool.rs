@@ -14,3 +14,5 @@
 // Enhance access control with roles
 // Add governance proposal voting contract
 // Add staking mechanism with reward distribution
+// Add ownership modifiers to contract
+// Refactor contract structure for modularity
