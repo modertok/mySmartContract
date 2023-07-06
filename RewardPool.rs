@@ -16,3 +16,4 @@
 // Add staking mechanism with reward distribution
 // Add ownership modifiers to contract
 // Refactor contract structure for modularity
+// Optimize gas usage for batch transfers
