@@ -6,3 +6,5 @@
 // Add emergency withdraw functionality
 // Implement slashing mechanism for validators
 // Fix reentrancy vulnerability in withdraw function
+// Write documentation for governance module
+// Refactor contract structure for modularity
