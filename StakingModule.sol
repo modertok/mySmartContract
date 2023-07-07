@@ -8,3 +8,4 @@
 // Fix reentrancy vulnerability in withdraw function
 // Write documentation for governance module
 // Refactor contract structure for modularity
+// Add emergency withdraw functionality
