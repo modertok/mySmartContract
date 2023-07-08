@@ -10,3 +10,4 @@
 // Integrate Oracle for price feed
 // Enhance access control with roles
 // Implement initial token contract
+// Add emergency withdraw functionality
