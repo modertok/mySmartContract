@@ -8,3 +8,5 @@
 // Write tests for staking contract
 // Implement initial token contract
 // Integrate Oracle for price feed
+// Enhance access control with roles
+// Implement initial token contract
