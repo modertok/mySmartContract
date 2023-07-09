@@ -7,3 +7,4 @@
 // Integrate Oracle for price feed
 // Add emergency withdraw functionality
 // Write documentation for governance module
+// Implement initial token contract
