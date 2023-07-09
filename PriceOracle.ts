@@ -8,3 +8,4 @@
 // Add emergency withdraw functionality
 // Write documentation for governance module
 // Implement initial token contract
+// Optimize gas usage for batch transfers
