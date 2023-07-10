@@ -10,3 +10,5 @@
 // Refactor contract structure for modularity
 // Add emergency withdraw functionality
 // Implement slashing mechanism for validators
+// Add governance proposal voting contract
+// Enhance access control with roles
