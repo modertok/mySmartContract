@@ -12,3 +12,4 @@
 // Implement slashing mechanism for validators
 // Add governance proposal voting contract
 // Enhance access control with roles
+// Optimize gas usage for batch transfers
