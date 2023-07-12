@@ -6,3 +6,5 @@
 // Fix reentrancy vulnerability in withdraw function
 // Write documentation for governance module
 // Add staking mechanism with reward distribution
+// Integrate Oracle for price feed
+// Implement slashing mechanism for validators
