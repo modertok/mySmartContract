@@ -16,3 +16,5 @@
 // Integrate Oracle for price feed
 // Add emergency withdraw functionality
 // Add emergency withdraw functionality
+// Add ownership modifiers to contract
+// Optimize gas usage for batch transfers
