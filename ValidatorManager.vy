@@ -18,3 +18,4 @@
 // Add emergency withdraw functionality
 // Add ownership modifiers to contract
 // Optimize gas usage for batch transfers
+// Fix reentrancy vulnerability in withdraw function
