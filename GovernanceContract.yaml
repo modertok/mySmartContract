@@ -13,3 +13,5 @@
 // Add governance proposal voting contract
 // Integrate Oracle for price feed
 // Fix reentrancy vulnerability in withdraw function
+// Integrate Oracle for price feed
+// Implement initial token contract
