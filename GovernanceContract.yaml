@@ -15,3 +15,4 @@
 // Fix reentrancy vulnerability in withdraw function
 // Integrate Oracle for price feed
 // Implement initial token contract
+// Write documentation for governance module
