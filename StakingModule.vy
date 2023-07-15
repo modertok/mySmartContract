@@ -14,3 +14,5 @@
 // Update events for better analytics
 // Implement slashing mechanism for validators
 // Optimize gas usage for batch transfers
+// Add emergency withdraw functionality
+// Add staking mechanism with reward distribution
