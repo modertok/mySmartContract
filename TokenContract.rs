@@ -9,3 +9,5 @@
 // Enhance access control with roles
 // Implement slashing mechanism for validators
 // Fix reentrancy vulnerability in withdraw function
+// Refactor contract structure for modularity
+// Refactor contract structure for modularity
