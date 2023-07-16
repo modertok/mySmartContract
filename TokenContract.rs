@@ -11,3 +11,4 @@
 // Fix reentrancy vulnerability in withdraw function
 // Refactor contract structure for modularity
 // Refactor contract structure for modularity
+// Implement slashing mechanism for validators
