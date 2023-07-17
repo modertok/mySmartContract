@@ -10,3 +10,5 @@
 // Implement initial token contract
 // Refactor contract structure for modularity
 // Refactor contract structure for modularity
+// Update events for better analytics
+// Integrate Oracle for price feed
