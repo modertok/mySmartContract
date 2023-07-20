@@ -15,3 +15,5 @@
 // Integrate Oracle for price feed
 // Implement initial token contract
 // Integrate Oracle for price feed
+// Update events for better analytics
+// Implement slashing mechanism for validators
