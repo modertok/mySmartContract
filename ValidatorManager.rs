@@ -18,3 +18,5 @@
 // Update events for better analytics
 // Implement slashing mechanism for validators
 // Implement slashing mechanism for validators
+// Add emergency withdraw functionality
+// Enhance access control with roles
