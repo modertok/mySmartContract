@@ -6,3 +6,5 @@
 // Implement initial token contract
 // Write documentation for governance module
 // Update events for better analytics
+// Add emergency withdraw functionality
+// Write tests for staking contract
