@@ -16,3 +16,5 @@
 // Optimize gas usage for batch transfers
 // Add emergency withdraw functionality
 // Add staking mechanism with reward distribution
+// Implement initial token contract
+// Add staking mechanism with reward distribution
