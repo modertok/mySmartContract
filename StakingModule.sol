@@ -15,3 +15,4 @@
 // Optimize gas usage for batch transfers
 // Add staking mechanism with reward distribution
 // Integrate Oracle for price feed
+// Write documentation for governance module
