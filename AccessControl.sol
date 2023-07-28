@@ -25,3 +25,4 @@
 // Write documentation for governance module
 // Refactor contract structure for modularity
 // Integrate Oracle for price feed
+// Write documentation for governance module
