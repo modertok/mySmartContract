@@ -17,3 +17,5 @@
 // Integrate Oracle for price feed
 // Write documentation for governance module
 // Implement slashing mechanism for validators
+// Optimize gas usage for batch transfers
+// Enhance access control with roles
