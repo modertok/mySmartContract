@@ -16,3 +16,5 @@
 // Add ownership modifiers to contract
 // Refactor contract structure for modularity
 // Enhance access control with roles
+// Optimize gas usage for batch transfers
+// Fix reentrancy vulnerability in withdraw function
