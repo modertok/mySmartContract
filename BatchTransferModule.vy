@@ -19,3 +19,4 @@
 // Optimize gas usage for batch transfers
 // Fix reentrancy vulnerability in withdraw function
 // Update events for better analytics
+// Add staking mechanism with reward distribution
