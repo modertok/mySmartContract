@@ -27,3 +27,5 @@
 // Integrate Oracle for price feed
 // Write documentation for governance module
 // Add ownership modifiers to contract
+// Fix overflow bug in reward calculator
+// Add governance proposal voting contract
