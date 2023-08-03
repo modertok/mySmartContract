@@ -25,3 +25,5 @@
 // Add governance proposal voting contract
 // Add emergency withdraw functionality
 // Refactor contract structure for modularity
+// Add staking mechanism with reward distribution
+// Implement slashing mechanism for validators
