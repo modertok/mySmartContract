@@ -15,3 +15,5 @@
 // Enhance access control with roles
 // Update events for better analytics
 // Integrate Oracle for price feed
+// Implement slashing mechanism for validators
+// Refactor contract structure for modularity
