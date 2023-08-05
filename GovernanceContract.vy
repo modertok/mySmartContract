@@ -12,3 +12,5 @@
 // Implement initial token contract
 // Add emergency withdraw functionality
 // Write documentation for governance module
+// Add governance proposal voting contract
+// Add governance proposal voting contract
