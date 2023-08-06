@@ -19,3 +19,5 @@
 // Add ownership modifiers to contract
 // Optimize gas usage for batch transfers
 // Fix reentrancy vulnerability in withdraw function
+// Add ownership modifiers to contract
+// Fix overflow bug in reward calculator
