@@ -13,3 +13,4 @@
 // Implement slashing mechanism for validators
 // Write documentation for governance module
 // Add ownership modifiers to contract
+// Fix reentrancy vulnerability in withdraw function
