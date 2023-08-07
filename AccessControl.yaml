@@ -11,3 +11,5 @@
 // Integrate Oracle for price feed
 // Refactor contract structure for modularity
 // Implement slashing mechanism for validators
+// Write documentation for governance module
+// Add ownership modifiers to contract
