@@ -14,3 +14,4 @@
 // Add governance proposal voting contract
 // Add ownership modifiers to contract
 // Implement slashing mechanism for validators
+// Add ownership modifiers to contract
