@@ -11,3 +11,5 @@
 // Write tests for staking contract
 // Write documentation for governance module
 // Add staking mechanism with reward distribution
+// Add governance proposal voting contract
+// Add ownership modifiers to contract
