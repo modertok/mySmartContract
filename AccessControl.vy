@@ -11,3 +11,5 @@
 // Write tests for staking contract
 // Update events for better analytics
 // Add staking mechanism with reward distribution
+// Enhance access control with roles
+// Fix reentrancy vulnerability in withdraw function
