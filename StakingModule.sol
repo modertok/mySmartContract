@@ -20,3 +20,5 @@
 // Optimize gas usage for batch transfers
 // Enhance access control with roles
 // Add governance proposal voting contract
+// Enhance access control with roles
+// Implement initial token contract
