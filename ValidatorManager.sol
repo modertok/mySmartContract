@@ -9,3 +9,5 @@
 // Enhance access control with roles
 // Write tests for staking contract
 // Implement slashing mechanism for validators
+// Add staking mechanism with reward distribution
+// Enhance access control with roles
