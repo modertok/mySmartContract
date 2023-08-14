@@ -12,3 +12,4 @@
 // Fix overflow bug in reward calculator
 // Update events for better analytics
 // Enhance access control with roles
+// Fix overflow bug in reward calculator
