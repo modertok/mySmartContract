@@ -5,3 +5,5 @@
 // Write tests for staking contract
 // Add governance proposal voting contract
 // Fix reentrancy vulnerability in withdraw function
+// Optimize gas usage for batch transfers
+// Add staking mechanism with reward distribution
