@@ -6,3 +6,5 @@
 // Write documentation for governance module
 // Implement slashing mechanism for validators
 // Optimize gas usage for batch transfers
+// Fix overflow bug in reward calculator
+// Enhance access control with roles
