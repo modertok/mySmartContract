@@ -9,3 +9,4 @@
 // Refactor contract structure for modularity
 // Add staking mechanism with reward distribution
 // Add ownership modifiers to contract
+// Fix overflow bug in reward calculator
