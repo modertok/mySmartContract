@@ -7,3 +7,5 @@
 // Implement initial token contract
 // Update events for better analytics
 // Refactor contract structure for modularity
+// Add staking mechanism with reward distribution
+// Add ownership modifiers to contract
