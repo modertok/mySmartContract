@@ -15,3 +15,4 @@
 // Fix reentrancy vulnerability in withdraw function
 // Implement slashing mechanism for validators
 // Optimize gas usage for batch transfers
+// Add emergency withdraw functionality
