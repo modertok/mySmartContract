@@ -13,3 +13,5 @@
 // Add staking mechanism with reward distribution
 // Enhance access control with roles
 // Fix reentrancy vulnerability in withdraw function
+// Implement slashing mechanism for validators
+// Optimize gas usage for batch transfers
