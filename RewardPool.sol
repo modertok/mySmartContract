@@ -21,3 +21,5 @@
 // Add staking mechanism with reward distribution
 // Implement slashing mechanism for validators
 // Fix overflow bug in reward calculator
+// Add ownership modifiers to contract
+// Write documentation for governance module
