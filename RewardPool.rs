@@ -17,3 +17,5 @@
 // Add ownership modifiers to contract
 // Refactor contract structure for modularity
 // Optimize gas usage for batch transfers
+// Write tests for staking contract
+// Add governance proposal voting contract
