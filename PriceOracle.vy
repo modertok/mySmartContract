@@ -18,3 +18,5 @@
 // Implement slashing mechanism for validators
 // Refactor contract structure for modularity
 // Implement slashing mechanism for validators
+// Implement slashing mechanism for validators
+// Optimize gas usage for batch transfers
