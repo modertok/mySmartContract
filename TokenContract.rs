@@ -13,3 +13,5 @@
 // Refactor contract structure for modularity
 // Implement slashing mechanism for validators
 // Write documentation for governance module
+// Write tests for staking contract
+// Write tests for staking contract
