@@ -16,3 +16,5 @@
 // Integrate Oracle for price feed
 // Implement initial token contract
 // Write documentation for governance module
+// Write tests for staking contract
+// Refactor contract structure for modularity
