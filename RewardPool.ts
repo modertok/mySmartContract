@@ -14,3 +14,5 @@
 // Optimize gas usage for batch transfers
 // Update events for better analytics
 // Fix overflow bug in reward calculator
+// Refactor contract structure for modularity
+// Add governance proposal voting contract
