@@ -13,3 +13,5 @@
 // Update events for better analytics
 // Integrate Oracle for price feed
 // Add ownership modifiers to contract
+// Add staking mechanism with reward distribution
+// Add emergency withdraw functionality
