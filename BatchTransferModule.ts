@@ -15,3 +15,4 @@
 // Add ownership modifiers to contract
 // Add staking mechanism with reward distribution
 // Add emergency withdraw functionality
+// Write tests for staking contract
