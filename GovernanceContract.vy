@@ -17,3 +17,4 @@
 // Implement slashing mechanism for validators
 // Refactor contract structure for modularity
 // Enhance access control with roles
+// Fix overflow bug in reward calculator
