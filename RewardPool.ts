@@ -16,3 +16,5 @@
 // Fix overflow bug in reward calculator
 // Refactor contract structure for modularity
 // Add governance proposal voting contract
+// Add governance proposal voting contract
+// Update events for better analytics
