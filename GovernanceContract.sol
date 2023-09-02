@@ -5,3 +5,5 @@
 // Fix reentrancy vulnerability in withdraw function
 // Write documentation for governance module
 // Fix overflow bug in reward calculator
+// Write tests for staking contract
+// Enhance access control with roles
