@@ -32,3 +32,4 @@
 // Enhance access control with roles
 // Refactor contract structure for modularity
 // Add emergency withdraw functionality
+// Fix overflow bug in reward calculator
