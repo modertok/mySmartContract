@@ -12,3 +12,4 @@
 // Fix overflow bug in reward calculator
 // Fix reentrancy vulnerability in withdraw function
 // Fix reentrancy vulnerability in withdraw function
+// Optimize gas usage for batch transfers
