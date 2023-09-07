@@ -12,3 +12,5 @@
 // Implement slashing mechanism for validators
 // Add emergency withdraw functionality
 // Update events for better analytics
+// Write documentation for governance module
+// Fix overflow bug in reward calculator
