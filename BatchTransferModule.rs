@@ -10,3 +10,5 @@
 // Add staking mechanism with reward distribution
 // Add ownership modifiers to contract
 // Fix overflow bug in reward calculator
+// Add emergency withdraw functionality
+// Fix reentrancy vulnerability in withdraw function
