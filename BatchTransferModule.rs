@@ -12,3 +12,4 @@
 // Fix overflow bug in reward calculator
 // Add emergency withdraw functionality
 // Fix reentrancy vulnerability in withdraw function
+// Add ownership modifiers to contract
