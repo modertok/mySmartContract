@@ -33,3 +33,4 @@
 // Fix reentrancy vulnerability in withdraw function
 // Integrate Oracle for price feed
 // Add ownership modifiers to contract
+// Write tests for staking contract
