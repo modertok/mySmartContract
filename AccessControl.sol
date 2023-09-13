@@ -32,3 +32,4 @@
 // Fix reentrancy vulnerability in withdraw function
 // Fix reentrancy vulnerability in withdraw function
 // Integrate Oracle for price feed
+// Add ownership modifiers to contract
