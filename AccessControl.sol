@@ -30,3 +30,5 @@
 // Fix overflow bug in reward calculator
 // Add governance proposal voting contract
 // Fix reentrancy vulnerability in withdraw function
+// Fix reentrancy vulnerability in withdraw function
+// Integrate Oracle for price feed
