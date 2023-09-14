@@ -16,3 +16,5 @@
 // Add emergency withdraw functionality
 // Optimize gas usage for batch transfers
 // Write tests for staking contract
+// Add staking mechanism with reward distribution
+// Optimize gas usage for batch transfers
