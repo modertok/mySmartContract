@@ -16,3 +16,5 @@
 // Write tests for staking contract
 // Write tests for staking contract
 // Enhance access control with roles
+// Add ownership modifiers to contract
+// Add emergency withdraw functionality
