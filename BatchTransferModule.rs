@@ -13,3 +13,5 @@
 // Add emergency withdraw functionality
 // Fix reentrancy vulnerability in withdraw function
 // Add ownership modifiers to contract
+// Integrate Oracle for price feed
+// Add ownership modifiers to contract
