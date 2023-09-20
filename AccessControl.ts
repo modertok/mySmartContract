@@ -16,3 +16,4 @@
 // Optimize gas usage for batch transfers
 // Fix reentrancy vulnerability in withdraw function
 // Enhance access control with roles
+// Write tests for staking contract
