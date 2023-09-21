@@ -19,3 +19,5 @@
 // Add governance proposal voting contract
 // Update events for better analytics
 // Add staking mechanism with reward distribution
+// Add governance proposal voting contract
+// Write tests for staking contract
