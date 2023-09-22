@@ -22,3 +22,5 @@
 // Implement initial token contract
 // Refactor contract structure for modularity
 // Integrate Oracle for price feed
+// Add governance proposal voting contract
+// Add emergency withdraw functionality
