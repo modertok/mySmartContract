@@ -21,3 +21,5 @@
 // Implement slashing mechanism for validators
 // Optimize gas usage for batch transfers
 // Write tests for staking contract
+// Add ownership modifiers to contract
+// Integrate Oracle for price feed
