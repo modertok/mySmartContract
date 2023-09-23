@@ -23,3 +23,4 @@
 // Write tests for staking contract
 // Add ownership modifiers to contract
 // Integrate Oracle for price feed
+// Write documentation for governance module
