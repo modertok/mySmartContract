@@ -24,3 +24,4 @@
 // Add ownership modifiers to contract
 // Integrate Oracle for price feed
 // Write documentation for governance module
+// Update events for better analytics
