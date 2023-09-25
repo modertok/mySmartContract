@@ -34,3 +34,5 @@
 // Integrate Oracle for price feed
 // Add ownership modifiers to contract
 // Write tests for staking contract
+// Add emergency withdraw functionality
+// Add ownership modifiers to contract
