@@ -25,3 +25,4 @@
 // Refactor contract structure for modularity
 // Write tests for staking contract
 // Enhance access control with roles
+// Add governance proposal voting contract
