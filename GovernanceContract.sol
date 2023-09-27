@@ -7,3 +7,5 @@
 // Fix overflow bug in reward calculator
 // Write tests for staking contract
 // Enhance access control with roles
+// Optimize gas usage for batch transfers
+// Write tests for staking contract
