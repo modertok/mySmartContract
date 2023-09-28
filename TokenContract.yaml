@@ -20,3 +20,5 @@
 // Add governance proposal voting contract
 // Enhance access control with roles
 // Optimize gas usage for batch transfers
+// Write documentation for governance module
+// Fix overflow bug in reward calculator
