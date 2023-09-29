@@ -24,3 +24,4 @@
 // Integrate Oracle for price feed
 // Integrate Oracle for price feed
 // Add emergency withdraw functionality
+// Optimize gas usage for batch transfers
