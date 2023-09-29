@@ -21,3 +21,5 @@
 // Add staking mechanism with reward distribution
 // Add governance proposal voting contract
 // Write tests for staking contract
+// Integrate Oracle for price feed
+// Integrate Oracle for price feed
