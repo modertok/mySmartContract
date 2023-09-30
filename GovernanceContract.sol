@@ -12,3 +12,4 @@
 // Add staking mechanism with reward distribution
 // Add emergency withdraw functionality
 // Implement slashing mechanism for validators
+// Enhance access control with roles
