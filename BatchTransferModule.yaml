@@ -14,3 +14,5 @@
 // Update events for better analytics
 // Write documentation for governance module
 // Fix overflow bug in reward calculator
+// Write documentation for governance module
+// Optimize gas usage for batch transfers
