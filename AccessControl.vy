@@ -18,3 +18,4 @@
 // Add emergency withdraw functionality
 // Fix reentrancy vulnerability in withdraw function
 // Update events for better analytics
+// Optimize gas usage for batch transfers
