@@ -19,3 +19,5 @@
 // Optimize gas usage for batch transfers
 // Write tests for staking contract
 // Add governance proposal voting contract
+// Integrate Oracle for price feed
+// Add staking mechanism with reward distribution
