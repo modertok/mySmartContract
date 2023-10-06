@@ -36,3 +36,5 @@
 // Write tests for staking contract
 // Add emergency withdraw functionality
 // Add ownership modifiers to contract
+// Fix reentrancy vulnerability in withdraw function
+// Fix reentrancy vulnerability in withdraw function
