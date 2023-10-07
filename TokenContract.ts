@@ -6,3 +6,5 @@
 // Update events for better analytics
 // Refactor contract structure for modularity
 // Refactor contract structure for modularity
+// Enhance access control with roles
+// Implement slashing mechanism for validators
