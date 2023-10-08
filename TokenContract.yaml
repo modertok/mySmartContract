@@ -25,3 +25,4 @@
 // Integrate Oracle for price feed
 // Implement slashing mechanism for validators
 // Write tests for staking contract
+// Optimize gas usage for batch transfers
