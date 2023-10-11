@@ -18,3 +18,4 @@
 // Update events for better analytics
 // Implement initial token contract
 // Implement slashing mechanism for validators
+// Integrate Oracle for price feed
