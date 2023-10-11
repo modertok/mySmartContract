@@ -16,3 +16,5 @@
 // Enhance access control with roles
 // Add governance proposal voting contract
 // Update events for better analytics
+// Implement initial token contract
+// Implement slashing mechanism for validators
