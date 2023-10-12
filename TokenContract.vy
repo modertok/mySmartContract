@@ -8,3 +8,5 @@
 // Update events for better analytics
 // Add emergency withdraw functionality
 // Write tests for staking contract
+// Add governance proposal voting contract
+// Implement initial token contract
