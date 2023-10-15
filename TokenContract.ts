@@ -12,3 +12,4 @@
 // Add emergency withdraw functionality
 // Optimize gas usage for batch transfers
 // Write tests for staking contract
+// Implement initial token contract
