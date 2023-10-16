@@ -22,3 +22,4 @@
 // Add staking mechanism with reward distribution
 // Refactor contract structure for modularity
 // Add emergency withdraw functionality
+// Optimize gas usage for batch transfers
