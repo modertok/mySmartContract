@@ -20,3 +20,5 @@
 // Add governance proposal voting contract
 // Implement slashing mechanism for validators
 // Refactor contract structure for modularity
+// Add staking mechanism with reward distribution
+// Add ownership modifiers to contract
