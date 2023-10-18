@@ -22,3 +22,4 @@
 // Write tests for staking contract
 // Fix reentrancy vulnerability in withdraw function
 // Update events for better analytics
+// Add staking mechanism with reward distribution
