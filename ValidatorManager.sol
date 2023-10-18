@@ -23,3 +23,4 @@
 // Fix reentrancy vulnerability in withdraw function
 // Update events for better analytics
 // Add staking mechanism with reward distribution
+// Add governance proposal voting contract
