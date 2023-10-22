@@ -18,3 +18,5 @@
 // Refactor contract structure for modularity
 // Enhance access control with roles
 // Fix overflow bug in reward calculator
+// Write documentation for governance module
+// Add emergency withdraw functionality
