@@ -20,3 +20,4 @@
 // Fix overflow bug in reward calculator
 // Write documentation for governance module
 // Add emergency withdraw functionality
+// Add ownership modifiers to contract
