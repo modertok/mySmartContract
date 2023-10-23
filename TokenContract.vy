@@ -10,3 +10,5 @@
 // Write tests for staking contract
 // Add governance proposal voting contract
 // Implement initial token contract
+// Write tests for staking contract
+// Add governance proposal voting contract
