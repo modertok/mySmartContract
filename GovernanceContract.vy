@@ -24,3 +24,4 @@
 // Enhance access control with roles
 // Implement slashing mechanism for validators
 // Write tests for staking contract
+// Integrate Oracle for price feed
