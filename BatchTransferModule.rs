@@ -19,3 +19,4 @@
 // Update events for better analytics
 // Fix reentrancy vulnerability in withdraw function
 // Integrate Oracle for price feed
+// Integrate Oracle for price feed
