@@ -17,3 +17,5 @@
 // Add ownership modifiers to contract
 // Add governance proposal voting contract
 // Update events for better analytics
+// Fix reentrancy vulnerability in withdraw function
+// Integrate Oracle for price feed
