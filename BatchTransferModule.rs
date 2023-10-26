@@ -20,3 +20,4 @@
 // Fix reentrancy vulnerability in withdraw function
 // Integrate Oracle for price feed
 // Integrate Oracle for price feed
+// Implement initial token contract
