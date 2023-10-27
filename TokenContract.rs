@@ -21,3 +21,4 @@
 // Fix reentrancy vulnerability in withdraw function
 // Add ownership modifiers to contract
 // Add staking mechanism with reward distribution
+// Refactor contract structure for modularity
