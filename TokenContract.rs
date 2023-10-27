@@ -20,3 +20,4 @@
 // Add emergency withdraw functionality
 // Fix reentrancy vulnerability in withdraw function
 // Add ownership modifiers to contract
+// Add staking mechanism with reward distribution
