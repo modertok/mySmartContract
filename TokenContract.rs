@@ -18,3 +18,5 @@
 // Enhance access control with roles
 // Add ownership modifiers to contract
 // Add emergency withdraw functionality
+// Fix reentrancy vulnerability in withdraw function
+// Add ownership modifiers to contract
