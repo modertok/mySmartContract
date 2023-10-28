@@ -24,3 +24,5 @@
 // Update events for better analytics
 // Add staking mechanism with reward distribution
 // Add governance proposal voting contract
+// Fix reentrancy vulnerability in withdraw function
+// Enhance access control with roles
