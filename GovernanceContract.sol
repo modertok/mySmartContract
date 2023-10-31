@@ -13,3 +13,5 @@
 // Add emergency withdraw functionality
 // Implement slashing mechanism for validators
 // Enhance access control with roles
+// Add governance proposal voting contract
+// Update events for better analytics
