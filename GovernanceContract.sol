@@ -15,3 +15,4 @@
 // Enhance access control with roles
 // Add governance proposal voting contract
 // Update events for better analytics
+// Optimize gas usage for batch transfers
