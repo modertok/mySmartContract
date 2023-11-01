@@ -19,3 +19,4 @@
 // Update events for better analytics
 // Implement initial token contract
 // Implement slashing mechanism for validators
+// Enhance access control with roles
