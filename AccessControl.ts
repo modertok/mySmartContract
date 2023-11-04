@@ -19,3 +19,4 @@
 // Write tests for staking contract
 // Add emergency withdraw functionality
 // Add governance proposal voting contract
+// Write documentation for governance module
