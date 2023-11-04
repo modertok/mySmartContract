@@ -17,3 +17,5 @@
 // Fix reentrancy vulnerability in withdraw function
 // Enhance access control with roles
 // Write tests for staking contract
+// Add emergency withdraw functionality
+// Add governance proposal voting contract
