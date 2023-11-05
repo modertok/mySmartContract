@@ -23,3 +23,4 @@
 // Update events for better analytics
 // Write tests for staking contract
 // Implement slashing mechanism for validators
+// Add staking mechanism with reward distribution
