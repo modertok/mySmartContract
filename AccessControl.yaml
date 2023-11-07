@@ -20,3 +20,5 @@
 // Fix overflow bug in reward calculator
 // Implement initial token contract
 // Fix reentrancy vulnerability in withdraw function
+// Write documentation for governance module
+// Add governance proposal voting contract
