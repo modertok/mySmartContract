@@ -18,3 +18,4 @@
 // Optimize gas usage for batch transfers
 // Add ownership modifiers to contract
 // Refactor contract structure for modularity
+// Update events for better analytics
