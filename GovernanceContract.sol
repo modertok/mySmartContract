@@ -19,3 +19,4 @@
 // Add ownership modifiers to contract
 // Refactor contract structure for modularity
 // Update events for better analytics
+// Add staking mechanism with reward distribution
