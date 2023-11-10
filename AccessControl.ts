@@ -21,3 +21,5 @@
 // Add governance proposal voting contract
 // Write documentation for governance module
 // Implement slashing mechanism for validators
+// Refactor contract structure for modularity
+// Add staking mechanism with reward distribution
