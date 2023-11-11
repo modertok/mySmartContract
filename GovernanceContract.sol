@@ -20,3 +20,5 @@
 // Refactor contract structure for modularity
 // Update events for better analytics
 // Add staking mechanism with reward distribution
+// Integrate Oracle for price feed
+// Add staking mechanism with reward distribution
