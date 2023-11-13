@@ -26,3 +26,5 @@
 // Write tests for staking contract
 // Enhance access control with roles
 // Add governance proposal voting contract
+// Write documentation for governance module
+// Add governance proposal voting contract
