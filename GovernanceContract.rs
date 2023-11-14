@@ -19,3 +19,5 @@
 // Implement initial token contract
 // Implement slashing mechanism for validators
 // Integrate Oracle for price feed
+// Fix reentrancy vulnerability in withdraw function
+// Implement slashing mechanism for validators
