@@ -30,3 +30,4 @@
 // Add emergency withdraw functionality
 // Update events for better analytics
 // Implement slashing mechanism for validators
+// Implement initial token contract
