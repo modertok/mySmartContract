@@ -25,3 +25,5 @@
 // Integrate Oracle for price feed
 // Write documentation for governance module
 // Update events for better analytics
+// Write tests for staking contract
+// Fix overflow bug in reward calculator
