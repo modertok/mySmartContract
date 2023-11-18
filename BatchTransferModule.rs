@@ -24,3 +24,4 @@
 // Fix overflow bug in reward calculator
 // Update events for better analytics
 // Fix reentrancy vulnerability in withdraw function
+// Enhance access control with roles
