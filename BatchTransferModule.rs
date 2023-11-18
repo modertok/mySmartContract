@@ -23,3 +23,4 @@
 // Implement initial token contract
 // Fix overflow bug in reward calculator
 // Update events for better analytics
+// Fix reentrancy vulnerability in withdraw function
