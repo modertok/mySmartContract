@@ -23,3 +23,5 @@
 // Integrate Oracle for price feed
 // Add staking mechanism with reward distribution
 // Fix reentrancy vulnerability in withdraw function
+// Add emergency withdraw functionality
+// Add ownership modifiers to contract
