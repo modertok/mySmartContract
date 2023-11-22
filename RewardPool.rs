@@ -26,3 +26,4 @@
 // Fix overflow bug in reward calculator
 // Enhance access control with roles
 // Integrate Oracle for price feed
+// Write tests for staking contract
