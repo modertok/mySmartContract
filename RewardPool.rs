@@ -23,3 +23,5 @@
 // Add staking mechanism with reward distribution
 // Fix overflow bug in reward calculator
 // Fix overflow bug in reward calculator
+// Fix overflow bug in reward calculator
+// Enhance access control with roles
