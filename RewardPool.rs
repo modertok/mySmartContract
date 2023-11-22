@@ -25,3 +25,4 @@
 // Fix overflow bug in reward calculator
 // Fix overflow bug in reward calculator
 // Enhance access control with roles
+// Integrate Oracle for price feed
