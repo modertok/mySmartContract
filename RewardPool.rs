@@ -29,3 +29,4 @@
 // Write tests for staking contract
 // Fix reentrancy vulnerability in withdraw function
 // Refactor contract structure for modularity
+// Optimize gas usage for batch transfers
