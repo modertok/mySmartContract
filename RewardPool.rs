@@ -27,3 +27,5 @@
 // Enhance access control with roles
 // Integrate Oracle for price feed
 // Write tests for staking contract
+// Fix reentrancy vulnerability in withdraw function
+// Refactor contract structure for modularity
