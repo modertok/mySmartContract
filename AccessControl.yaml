@@ -24,3 +24,5 @@
 // Add governance proposal voting contract
 // Implement slashing mechanism for validators
 // Add governance proposal voting contract
+// Fix overflow bug in reward calculator
+// Fix reentrancy vulnerability in withdraw function
