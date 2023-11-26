@@ -28,3 +28,4 @@
 // Optimize gas usage for batch transfers
 // Implement initial token contract
 // Update events for better analytics
+// Refactor contract structure for modularity
