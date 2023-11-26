@@ -25,3 +25,5 @@
 // Implement slashing mechanism for validators
 // Add staking mechanism with reward distribution
 // Implement slashing mechanism for validators
+// Optimize gas usage for batch transfers
+// Implement initial token contract
