@@ -27,3 +27,4 @@
 // Implement slashing mechanism for validators
 // Optimize gas usage for batch transfers
 // Implement initial token contract
+// Update events for better analytics
