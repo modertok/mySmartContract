@@ -21,3 +21,4 @@
 // Fix reentrancy vulnerability in withdraw function
 // Enhance access control with roles
 // Add ownership modifiers to contract
+// Write tests for staking contract
