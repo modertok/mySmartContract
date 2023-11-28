@@ -30,3 +30,4 @@
 // Implement slashing mechanism for validators
 // Fix overflow bug in reward calculator
 // Integrate Oracle for price feed
+// Enhance access control with roles
