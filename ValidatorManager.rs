@@ -31,3 +31,5 @@
 // Update events for better analytics
 // Implement slashing mechanism for validators
 // Implement initial token contract
+// Add governance proposal voting contract
+// Integrate Oracle for price feed
