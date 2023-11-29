@@ -34,3 +34,4 @@
 // Add governance proposal voting contract
 // Integrate Oracle for price feed
 // Add ownership modifiers to contract
+// Update events for better analytics
