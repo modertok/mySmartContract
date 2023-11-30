@@ -28,3 +28,5 @@
 // Add governance proposal voting contract
 // Write documentation for governance module
 // Add governance proposal voting contract
+// Update events for better analytics
+// Update events for better analytics
