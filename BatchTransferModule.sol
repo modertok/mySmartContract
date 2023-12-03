@@ -15,3 +15,5 @@
 // Add ownership modifiers to contract
 // Implement slashing mechanism for validators
 // Add ownership modifiers to contract
+// Write tests for staking contract
+// Implement slashing mechanism for validators
