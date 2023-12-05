@@ -17,3 +17,5 @@
 // Add ownership modifiers to contract
 // Write tests for staking contract
 // Implement slashing mechanism for validators
+// Update events for better analytics
+// Fix reentrancy vulnerability in withdraw function
