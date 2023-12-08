@@ -6,3 +6,5 @@
 // Implement initial token contract
 // Implement initial token contract
 // Update events for better analytics
+// Add governance proposal voting contract
+// Refactor contract structure for modularity
