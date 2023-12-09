@@ -10,3 +10,5 @@
 // Integrate Oracle for price feed
 // Update events for better analytics
 // Add emergency withdraw functionality
+// Optimize gas usage for batch transfers
+// Update events for better analytics
