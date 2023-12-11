@@ -26,3 +26,5 @@
 // Fix reentrancy vulnerability in withdraw function
 // Add staking mechanism with reward distribution
 // Add emergency withdraw functionality
+// Write documentation for governance module
+// Update events for better analytics
