@@ -10,3 +10,4 @@
 // Implement initial token contract
 // Optimize gas usage for batch transfers
 // Implement initial token contract
+// Add ownership modifiers to contract
