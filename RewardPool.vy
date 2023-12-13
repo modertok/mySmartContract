@@ -22,3 +22,5 @@
 // Enhance access control with roles
 // Add ownership modifiers to contract
 // Write tests for staking contract
+// Optimize gas usage for batch transfers
+// Enhance access control with roles
