@@ -23,3 +23,5 @@
 // Implement slashing mechanism for validators
 // Write tests for staking contract
 // Implement slashing mechanism for validators
+// Add staking mechanism with reward distribution
+// Add governance proposal voting contract
