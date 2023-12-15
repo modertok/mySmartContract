@@ -16,3 +16,5 @@
 // Fix reentrancy vulnerability in withdraw function
 // Enhance access control with roles
 // Fix reentrancy vulnerability in withdraw function
+// Implement slashing mechanism for validators
+// Add ownership modifiers to contract
