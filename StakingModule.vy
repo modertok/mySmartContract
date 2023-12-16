@@ -22,3 +22,4 @@
 // Add emergency withdraw functionality
 // Implement slashing mechanism for validators
 // Enhance access control with roles
+// Fix overflow bug in reward calculator
