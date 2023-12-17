@@ -20,3 +20,5 @@
 // Optimize gas usage for batch transfers
 // Update events for better analytics
 // Refactor contract structure for modularity
+// Add governance proposal voting contract
+// Integrate Oracle for price feed
