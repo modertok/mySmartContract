@@ -10,3 +10,4 @@
 // Refactor contract structure for modularity
 // Write documentation for governance module
 // Add governance proposal voting contract
+// Integrate Oracle for price feed
