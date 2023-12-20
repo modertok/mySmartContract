@@ -19,3 +19,5 @@
 // Implement slashing mechanism for validators
 // Update events for better analytics
 // Fix reentrancy vulnerability in withdraw function
+// Enhance access control with roles
+// Write tests for staking contract
