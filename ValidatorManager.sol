@@ -28,3 +28,5 @@
 // Enhance access control with roles
 // Implement slashing mechanism for validators
 // Fix overflow bug in reward calculator
+// Write tests for staking contract
+// Write tests for staking contract
