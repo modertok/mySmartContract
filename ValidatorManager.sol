@@ -31,3 +31,4 @@
 // Write tests for staking contract
 // Write tests for staking contract
 // Fix reentrancy vulnerability in withdraw function
+// Add staking mechanism with reward distribution
