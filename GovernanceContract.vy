@@ -28,3 +28,4 @@
 // Implement slashing mechanism for validators
 // Enhance access control with roles
 // Add staking mechanism with reward distribution
+// Implement slashing mechanism for validators
