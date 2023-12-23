@@ -25,3 +25,5 @@
 // Implement slashing mechanism for validators
 // Write tests for staking contract
 // Integrate Oracle for price feed
+// Implement slashing mechanism for validators
+// Enhance access control with roles
