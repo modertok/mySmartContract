@@ -35,3 +35,4 @@
 // Implement slashing mechanism for validators
 // Optimize gas usage for batch transfers
 // Integrate Oracle for price feed
+// Add ownership modifiers to contract
