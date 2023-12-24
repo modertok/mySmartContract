@@ -33,3 +33,5 @@
 // Refactor contract structure for modularity
 // Write tests for staking contract
 // Implement slashing mechanism for validators
+// Optimize gas usage for batch transfers
+// Integrate Oracle for price feed
