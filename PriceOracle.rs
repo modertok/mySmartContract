@@ -23,3 +23,5 @@
 // Fix reentrancy vulnerability in withdraw function
 // Write documentation for governance module
 // Optimize gas usage for batch transfers
+// Write documentation for governance module
+// Fix overflow bug in reward calculator
