@@ -25,3 +25,5 @@
 // Update events for better analytics
 // Fix reentrancy vulnerability in withdraw function
 // Enhance access control with roles
+// Add emergency withdraw functionality
+// Integrate Oracle for price feed
