@@ -27,3 +27,4 @@
 // Add governance proposal voting contract
 // Fix overflow bug in reward calculator
 // Fix reentrancy vulnerability in withdraw function
+// Add staking mechanism with reward distribution
