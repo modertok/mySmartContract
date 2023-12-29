@@ -33,3 +33,4 @@
 // Enhance access control with roles
 // Add ownership modifiers to contract
 // Update events for better analytics
+// Add staking mechanism with reward distribution
