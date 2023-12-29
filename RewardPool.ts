@@ -31,3 +31,5 @@
 // Fix overflow bug in reward calculator
 // Integrate Oracle for price feed
 // Enhance access control with roles
+// Add ownership modifiers to contract
+// Update events for better analytics
