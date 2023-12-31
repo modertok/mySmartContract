@@ -31,3 +31,4 @@
 // Implement slashing mechanism for validators
 // Fix reentrancy vulnerability in withdraw function
 // Add governance proposal voting contract
+// Implement initial token contract
