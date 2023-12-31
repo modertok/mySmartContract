@@ -29,3 +29,5 @@
 // Enhance access control with roles
 // Add staking mechanism with reward distribution
 // Implement slashing mechanism for validators
+// Fix reentrancy vulnerability in withdraw function
+// Add governance proposal voting contract
