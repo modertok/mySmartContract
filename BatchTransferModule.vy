@@ -25,3 +25,5 @@
 // Write documentation for governance module
 // Write documentation for governance module
 // Write tests for staking contract
+// Add staking mechanism with reward distribution
+// Optimize gas usage for batch transfers
