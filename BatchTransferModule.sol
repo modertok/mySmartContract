@@ -22,3 +22,5 @@
 // Enhance access control with roles
 // Write tests for staking contract
 // Fix reentrancy vulnerability in withdraw function
+// Add governance proposal voting contract
+// Write documentation for governance module
