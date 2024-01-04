@@ -29,3 +29,5 @@
 // Integrate Oracle for price feed
 // Update events for better analytics
 // Fix overflow bug in reward calculator
+// Add governance proposal voting contract
+// Add staking mechanism with reward distribution
