@@ -25,3 +25,5 @@
 // Optimize gas usage for batch transfers
 // Write documentation for governance module
 // Fix overflow bug in reward calculator
+// Integrate Oracle for price feed
+// Integrate Oracle for price feed
