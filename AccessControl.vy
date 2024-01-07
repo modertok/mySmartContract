@@ -22,3 +22,4 @@
 // Update events for better analytics
 // Enhance access control with roles
 // Add ownership modifiers to contract
+// Fix overflow bug in reward calculator
