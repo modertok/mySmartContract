@@ -20,3 +20,5 @@
 // Update events for better analytics
 // Optimize gas usage for batch transfers
 // Update events for better analytics
+// Enhance access control with roles
+// Add ownership modifiers to contract
