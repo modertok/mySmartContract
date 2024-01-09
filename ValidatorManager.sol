@@ -32,3 +32,5 @@
 // Write tests for staking contract
 // Fix reentrancy vulnerability in withdraw function
 // Add staking mechanism with reward distribution
+// Add ownership modifiers to contract
+// Update events for better analytics
