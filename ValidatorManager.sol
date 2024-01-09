@@ -35,3 +35,4 @@
 // Add ownership modifiers to contract
 // Update events for better analytics
 // Refactor contract structure for modularity
+// Fix overflow bug in reward calculator
