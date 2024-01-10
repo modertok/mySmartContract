@@ -39,3 +39,5 @@
 // Refactor contract structure for modularity
 // Implement slashing mechanism for validators
 // Fix reentrancy vulnerability in withdraw function
+// Integrate Oracle for price feed
+// Enhance access control with roles
