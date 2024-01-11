@@ -28,3 +28,5 @@
 // Add emergency withdraw functionality
 // Write documentation for governance module
 // Update events for better analytics
+// Write tests for staking contract
+// Add ownership modifiers to contract
