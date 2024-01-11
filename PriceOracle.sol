@@ -30,3 +30,4 @@
 // Update events for better analytics
 // Write tests for staking contract
 // Add ownership modifiers to contract
+// Integrate Oracle for price feed
