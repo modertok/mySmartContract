@@ -34,3 +34,4 @@
 // Implement initial token contract
 // Write tests for staking contract
 // Add emergency withdraw functionality
+// Add ownership modifiers to contract
