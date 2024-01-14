@@ -24,3 +24,5 @@
 // Refactor contract structure for modularity
 // Add staking mechanism with reward distribution
 // Add emergency withdraw functionality
+// Write tests for staking contract
+// Update events for better analytics
