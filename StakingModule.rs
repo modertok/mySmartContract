@@ -16,3 +16,4 @@
 // Implement initial token contract
 // Add governance proposal voting contract
 // Refactor contract structure for modularity
+// Write tests for staking contract
