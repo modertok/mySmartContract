@@ -14,3 +14,5 @@
 // Update events for better analytics
 // Fix overflow bug in reward calculator
 // Implement initial token contract
+// Add governance proposal voting contract
+// Refactor contract structure for modularity
