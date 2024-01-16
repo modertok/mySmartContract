@@ -27,3 +27,5 @@
 // Write tests for staking contract
 // Optimize gas usage for batch transfers
 // Add governance proposal voting contract
+// Write documentation for governance module
+// Fix reentrancy vulnerability in withdraw function
