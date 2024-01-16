@@ -29,3 +29,4 @@
 // Add governance proposal voting contract
 // Write documentation for governance module
 // Fix reentrancy vulnerability in withdraw function
+// Refactor contract structure for modularity
