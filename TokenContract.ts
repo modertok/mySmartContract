@@ -22,3 +22,5 @@
 // Add governance proposal voting contract
 // Add staking mechanism with reward distribution
 // Write tests for staking contract
+// Enhance access control with roles
+// Write tests for staking contract
