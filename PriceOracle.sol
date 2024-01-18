@@ -31,3 +31,5 @@
 // Write tests for staking contract
 // Add ownership modifiers to contract
 // Integrate Oracle for price feed
+// Fix overflow bug in reward calculator
+// Add governance proposal voting contract
