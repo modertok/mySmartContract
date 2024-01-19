@@ -26,3 +26,4 @@
 // Optimize gas usage for batch transfers
 // Add emergency withdraw functionality
 // Fix overflow bug in reward calculator
+// Enhance access control with roles
