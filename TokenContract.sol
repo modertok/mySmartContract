@@ -13,3 +13,4 @@
 // Add ownership modifiers to contract
 // Write documentation for governance module
 // Add staking mechanism with reward distribution
+// Fix overflow bug in reward calculator
