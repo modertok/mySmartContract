@@ -11,3 +11,5 @@
 // Optimize gas usage for batch transfers
 // Implement initial token contract
 // Add ownership modifiers to contract
+// Write documentation for governance module
+// Add staking mechanism with reward distribution
