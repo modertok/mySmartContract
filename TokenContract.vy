@@ -14,3 +14,5 @@
 // Add governance proposal voting contract
 // Add governance proposal voting contract
 // Fix overflow bug in reward calculator
+// Fix overflow bug in reward calculator
+// Write tests for staking contract
