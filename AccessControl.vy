@@ -29,3 +29,4 @@
 // Enhance access control with roles
 // Add emergency withdraw functionality
 // Implement slashing mechanism for validators
+// Fix reentrancy vulnerability in withdraw function
