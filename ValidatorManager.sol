@@ -38,3 +38,4 @@
 // Fix overflow bug in reward calculator
 // Add staking mechanism with reward distribution
 // Optimize gas usage for batch transfers
+// Add staking mechanism with reward distribution
