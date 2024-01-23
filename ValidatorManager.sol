@@ -36,3 +36,5 @@
 // Update events for better analytics
 // Refactor contract structure for modularity
 // Fix overflow bug in reward calculator
+// Add staking mechanism with reward distribution
+// Optimize gas usage for batch transfers
