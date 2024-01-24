@@ -29,3 +29,4 @@
 // Integrate Oracle for price feed
 // Add ownership modifiers to contract
 // Fix overflow bug in reward calculator
+// Add ownership modifiers to contract
