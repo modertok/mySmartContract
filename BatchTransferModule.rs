@@ -27,3 +27,5 @@
 // Enhance access control with roles
 // Add emergency withdraw functionality
 // Integrate Oracle for price feed
+// Add ownership modifiers to contract
+// Fix overflow bug in reward calculator
