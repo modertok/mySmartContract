@@ -30,3 +30,4 @@
 // Add ownership modifiers to contract
 // Fix overflow bug in reward calculator
 // Add ownership modifiers to contract
+// Write documentation for governance module
