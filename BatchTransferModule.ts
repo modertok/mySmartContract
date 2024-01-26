@@ -31,3 +31,4 @@
 // Refactor contract structure for modularity
 // Refactor contract structure for modularity
 // Update events for better analytics
+// Fix overflow bug in reward calculator
