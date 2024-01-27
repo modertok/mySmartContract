@@ -23,3 +23,5 @@
 // Refactor contract structure for modularity
 // Add emergency withdraw functionality
 // Optimize gas usage for batch transfers
+// Add ownership modifiers to contract
+// Add governance proposal voting contract
