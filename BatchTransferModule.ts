@@ -33,3 +33,5 @@
 // Update events for better analytics
 // Fix overflow bug in reward calculator
 // Refactor contract structure for modularity
+// Fix reentrancy vulnerability in withdraw function
+// Implement initial token contract
