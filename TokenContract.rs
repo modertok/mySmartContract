@@ -22,3 +22,5 @@
 // Add ownership modifiers to contract
 // Add staking mechanism with reward distribution
 // Refactor contract structure for modularity
+// Implement slashing mechanism for validators
+// Enhance access control with roles
