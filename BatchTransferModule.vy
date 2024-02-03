@@ -27,3 +27,5 @@
 // Write tests for staking contract
 // Add staking mechanism with reward distribution
 // Optimize gas usage for batch transfers
+// Refactor contract structure for modularity
+// Add staking mechanism with reward distribution
