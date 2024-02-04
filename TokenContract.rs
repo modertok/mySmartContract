@@ -24,3 +24,5 @@
 // Refactor contract structure for modularity
 // Implement slashing mechanism for validators
 // Enhance access control with roles
+// Add staking mechanism with reward distribution
+// Write tests for staking contract
