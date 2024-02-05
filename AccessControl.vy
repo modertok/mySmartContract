@@ -32,3 +32,4 @@
 // Fix reentrancy vulnerability in withdraw function
 // Add staking mechanism with reward distribution
 // Enhance access control with roles
+// Add staking mechanism with reward distribution
