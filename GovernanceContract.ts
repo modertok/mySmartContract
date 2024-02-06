@@ -27,3 +27,5 @@
 // Add governance proposal voting contract
 // Write documentation for governance module
 // Enhance access control with roles
+// Add ownership modifiers to contract
+// Add emergency withdraw functionality
