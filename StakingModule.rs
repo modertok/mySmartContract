@@ -19,3 +19,4 @@
 // Write tests for staking contract
 // Fix overflow bug in reward calculator
 // Add staking mechanism with reward distribution
+// Add governance proposal voting contract
