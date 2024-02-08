@@ -46,3 +46,4 @@
 // Enhance access control with roles
 // Add staking mechanism with reward distribution
 // Refactor contract structure for modularity
+// Write tests for staking contract
