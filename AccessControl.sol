@@ -43,3 +43,5 @@
 // Fix overflow bug in reward calculator
 // Optimize gas usage for batch transfers
 // Integrate Oracle for price feed
+// Enhance access control with roles
+// Add staking mechanism with reward distribution
