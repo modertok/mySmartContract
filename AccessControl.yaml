@@ -31,3 +31,5 @@
 // Fix overflow bug in reward calculator
 // Add governance proposal voting contract
 // Add staking mechanism with reward distribution
+// Add ownership modifiers to contract
+// Write tests for staking contract
