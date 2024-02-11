@@ -33,3 +33,5 @@
 // Integrate Oracle for price feed
 // Fix overflow bug in reward calculator
 // Add governance proposal voting contract
+// Add emergency withdraw functionality
+// Add emergency withdraw functionality
