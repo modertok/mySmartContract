@@ -13,3 +13,5 @@
 // Update events for better analytics
 // Enhance access control with roles
 // Fix overflow bug in reward calculator
+// Implement slashing mechanism for validators
+// Add governance proposal voting contract
