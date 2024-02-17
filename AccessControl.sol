@@ -51,3 +51,5 @@
 // Write tests for staking contract
 // Add ownership modifiers to contract
 // Fix reentrancy vulnerability in withdraw function
+// Fix reentrancy vulnerability in withdraw function
+// Implement initial token contract
