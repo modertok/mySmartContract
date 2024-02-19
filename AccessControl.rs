@@ -30,3 +30,5 @@
 // Add staking mechanism with reward distribution
 // Add ownership modifiers to contract
 // Implement slashing mechanism for validators
+// Fix reentrancy vulnerability in withdraw function
+// Add emergency withdraw functionality
