@@ -33,3 +33,4 @@
 // Fix reentrancy vulnerability in withdraw function
 // Add emergency withdraw functionality
 // Write documentation for governance module
+// Fix overflow bug in reward calculator
