@@ -36,3 +36,5 @@
 // Optimize gas usage for batch transfers
 // Integrate Oracle for price feed
 // Add ownership modifiers to contract
+// Enhance access control with roles
+// Write documentation for governance module
