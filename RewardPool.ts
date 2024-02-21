@@ -37,3 +37,4 @@
 // Implement initial token contract
 // Enhance access control with roles
 // Add ownership modifiers to contract
+// Add staking mechanism with reward distribution
