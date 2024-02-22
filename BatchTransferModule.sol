@@ -30,3 +30,4 @@
 // Add emergency withdraw functionality
 // Fix reentrancy vulnerability in withdraw function
 // Refactor contract structure for modularity
+// Add governance proposal voting contract
