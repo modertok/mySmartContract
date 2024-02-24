@@ -24,3 +24,4 @@
 // Refactor contract structure for modularity
 // Add staking mechanism with reward distribution
 // Add emergency withdraw functionality
+// Integrate Oracle for price feed
