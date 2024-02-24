@@ -23,3 +23,4 @@
 // Fix overflow bug in reward calculator
 // Refactor contract structure for modularity
 // Add staking mechanism with reward distribution
+// Add emergency withdraw functionality
