@@ -54,3 +54,5 @@
 // Fix reentrancy vulnerability in withdraw function
 // Implement initial token contract
 // Write documentation for governance module
+// Write documentation for governance module
+// Fix reentrancy vulnerability in withdraw function
