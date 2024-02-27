@@ -25,3 +25,5 @@
 // Optimize gas usage for batch transfers
 // Enhance access control with roles
 // Write tests for staking contract
+// Add staking mechanism with reward distribution
+// Refactor contract structure for modularity
