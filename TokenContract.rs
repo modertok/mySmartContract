@@ -26,3 +26,5 @@
 // Enhance access control with roles
 // Add staking mechanism with reward distribution
 // Write tests for staking contract
+// Implement initial token contract
+// Integrate Oracle for price feed
