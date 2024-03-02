@@ -33,3 +33,4 @@
 // Write documentation for governance module
 // Add governance proposal voting contract
 // Add ownership modifiers to contract
+// Add ownership modifiers to contract
