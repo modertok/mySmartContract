@@ -16,3 +16,5 @@
 // Fix overflow bug in reward calculator
 // Fix overflow bug in reward calculator
 // Write tests for staking contract
+// Update events for better analytics
+// Implement slashing mechanism for validators
