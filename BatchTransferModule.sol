@@ -31,3 +31,5 @@
 // Fix reentrancy vulnerability in withdraw function
 // Refactor contract structure for modularity
 // Add governance proposal voting contract
+// Add ownership modifiers to contract
+// Fix reentrancy vulnerability in withdraw function
