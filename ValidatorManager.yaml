@@ -29,3 +29,5 @@
 // Add staking mechanism with reward distribution
 // Add staking mechanism with reward distribution
 // Add governance proposal voting contract
+// Write documentation for governance module
+// Implement slashing mechanism for validators
