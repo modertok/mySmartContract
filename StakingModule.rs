@@ -20,3 +20,5 @@
 // Fix overflow bug in reward calculator
 // Add staking mechanism with reward distribution
 // Add governance proposal voting contract
+// Refactor contract structure for modularity
+// Refactor contract structure for modularity
