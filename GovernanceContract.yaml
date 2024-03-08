@@ -25,3 +25,5 @@
 // Optimize gas usage for batch transfers
 // Add ownership modifiers to contract
 // Add governance proposal voting contract
+// Fix overflow bug in reward calculator
+// Write tests for staking contract
