@@ -15,3 +15,5 @@
 // Add staking mechanism with reward distribution
 // Fix overflow bug in reward calculator
 // Add emergency withdraw functionality
+// Fix reentrancy vulnerability in withdraw function
+// Update events for better analytics
