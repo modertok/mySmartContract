@@ -24,3 +24,5 @@
 // Write tests for staking contract
 // Enhance access control with roles
 // Write tests for staking contract
+// Add staking mechanism with reward distribution
+// Optimize gas usage for batch transfers
