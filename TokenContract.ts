@@ -27,3 +27,4 @@
 // Add staking mechanism with reward distribution
 // Optimize gas usage for batch transfers
 // Refactor contract structure for modularity
+// Integrate Oracle for price feed
