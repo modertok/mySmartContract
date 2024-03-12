@@ -38,3 +38,5 @@
 // Add ownership modifiers to contract
 // Enhance access control with roles
 // Write documentation for governance module
+// Add governance proposal voting contract
+// Fix reentrancy vulnerability in withdraw function
