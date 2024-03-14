@@ -21,3 +21,4 @@
 // Refactor contract structure for modularity
 // Add ownership modifiers to contract
 // Add staking mechanism with reward distribution
+// Add governance proposal voting contract
