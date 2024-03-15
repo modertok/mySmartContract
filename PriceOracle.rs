@@ -29,3 +29,5 @@
 // Integrate Oracle for price feed
 // Fix reentrancy vulnerability in withdraw function
 // Fix overflow bug in reward calculator
+// Optimize gas usage for batch transfers
+// Refactor contract structure for modularity
