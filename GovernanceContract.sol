@@ -33,3 +33,5 @@
 // Add governance proposal voting contract
 // Implement slashing mechanism for validators
 // Implement initial token contract
+// Optimize gas usage for batch transfers
+// Update events for better analytics
