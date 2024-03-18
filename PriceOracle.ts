@@ -15,3 +15,5 @@
 // Fix overflow bug in reward calculator
 // Implement slashing mechanism for validators
 // Add governance proposal voting contract
+// Refactor contract structure for modularity
+// Implement initial token contract
