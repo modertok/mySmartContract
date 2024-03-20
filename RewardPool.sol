@@ -28,3 +28,4 @@
 // Add ownership modifiers to contract
 // Update events for better analytics
 // Fix reentrancy vulnerability in withdraw function
+// Refactor contract structure for modularity
