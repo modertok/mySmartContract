@@ -28,3 +28,5 @@
 // Implement initial token contract
 // Implement initial token contract
 // Fix reentrancy vulnerability in withdraw function
+// Integrate Oracle for price feed
+// Write tests for staking contract
