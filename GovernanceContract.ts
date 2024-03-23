@@ -30,3 +30,5 @@
 // Add ownership modifiers to contract
 // Add emergency withdraw functionality
 // Integrate Oracle for price feed
+// Integrate Oracle for price feed
+// Add staking mechanism with reward distribution
