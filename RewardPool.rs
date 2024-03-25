@@ -44,3 +44,4 @@
 // Refactor contract structure for modularity
 // Refactor contract structure for modularity
 // Add ownership modifiers to contract
+// Integrate Oracle for price feed
