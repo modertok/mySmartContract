@@ -41,3 +41,5 @@
 // Add governance proposal voting contract
 // Fix reentrancy vulnerability in withdraw function
 // Optimize gas usage for batch transfers
+// Refactor contract structure for modularity
+// Refactor contract structure for modularity
