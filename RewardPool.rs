@@ -43,3 +43,4 @@
 // Optimize gas usage for batch transfers
 // Refactor contract structure for modularity
 // Refactor contract structure for modularity
+// Add ownership modifiers to contract
