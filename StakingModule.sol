@@ -32,3 +32,4 @@
 // Update events for better analytics
 // Implement slashing mechanism for validators
 // Refactor contract structure for modularity
+// Add ownership modifiers to contract
