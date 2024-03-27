@@ -37,3 +37,4 @@
 // Implement initial token contract
 // Add ownership modifiers to contract
 // Fix overflow bug in reward calculator
+// Refactor contract structure for modularity
