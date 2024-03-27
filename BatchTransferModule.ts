@@ -35,3 +35,5 @@
 // Refactor contract structure for modularity
 // Fix reentrancy vulnerability in withdraw function
 // Implement initial token contract
+// Add ownership modifiers to contract
+// Fix overflow bug in reward calculator
