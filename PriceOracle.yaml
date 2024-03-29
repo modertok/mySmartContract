@@ -44,3 +44,4 @@
 // Add staking mechanism with reward distribution
 // Add emergency withdraw functionality
 // Update events for better analytics
+// Refactor contract structure for modularity
