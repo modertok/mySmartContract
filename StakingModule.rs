@@ -24,3 +24,5 @@
 // Refactor contract structure for modularity
 // Add emergency withdraw functionality
 // Implement initial token contract
+// Write documentation for governance module
+// Add governance proposal voting contract
