@@ -31,3 +31,4 @@
 // Refactor contract structure for modularity
 // Implement slashing mechanism for validators
 // Integrate Oracle for price feed
+// Add governance proposal voting contract
