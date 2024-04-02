@@ -38,3 +38,5 @@
 // Enhance access control with roles
 // Add ownership modifiers to contract
 // Add staking mechanism with reward distribution
+// Fix reentrancy vulnerability in withdraw function
+// Fix reentrancy vulnerability in withdraw function
