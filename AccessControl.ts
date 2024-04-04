@@ -34,3 +34,4 @@
 // Optimize gas usage for batch transfers
 // Integrate Oracle for price feed
 // Add emergency withdraw functionality
+// Update events for better analytics
