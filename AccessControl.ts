@@ -32,3 +32,5 @@
 // Fix reentrancy vulnerability in withdraw function
 // Add staking mechanism with reward distribution
 // Optimize gas usage for batch transfers
+// Integrate Oracle for price feed
+// Add emergency withdraw functionality
