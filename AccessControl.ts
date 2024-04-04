@@ -35,3 +35,4 @@
 // Integrate Oracle for price feed
 // Add emergency withdraw functionality
 // Update events for better analytics
+// Add ownership modifiers to contract
