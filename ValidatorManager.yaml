@@ -33,3 +33,4 @@
 // Implement slashing mechanism for validators
 // Optimize gas usage for batch transfers
 // Enhance access control with roles
+// Add ownership modifiers to contract
