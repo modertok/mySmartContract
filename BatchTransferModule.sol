@@ -35,3 +35,5 @@
 // Fix reentrancy vulnerability in withdraw function
 // Add staking mechanism with reward distribution
 // Add governance proposal voting contract
+// Write documentation for governance module
+// Implement initial token contract
