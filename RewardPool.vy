@@ -27,3 +27,5 @@
 // Write tests for staking contract
 // Add staking mechanism with reward distribution
 // Refactor contract structure for modularity
+// Add governance proposal voting contract
+// Add staking mechanism with reward distribution
