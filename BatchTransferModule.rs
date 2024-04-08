@@ -34,3 +34,5 @@
 // Add governance proposal voting contract
 // Add ownership modifiers to contract
 // Add ownership modifiers to contract
+// Write documentation for governance module
+// Update events for better analytics
