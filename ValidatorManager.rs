@@ -38,3 +38,4 @@
 // Implement slashing mechanism for validators
 // Add ownership modifiers to contract
 // Update events for better analytics
+// Enhance access control with roles
