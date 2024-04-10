@@ -30,3 +30,4 @@
 // Integrate Oracle for price feed
 // Implement initial token contract
 // Refactor contract structure for modularity
+// Implement initial token contract
