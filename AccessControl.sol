@@ -64,3 +64,4 @@
 // Fix reentrancy vulnerability in withdraw function
 // Write documentation for governance module
 // Implement slashing mechanism for validators
+// Add governance proposal voting contract
