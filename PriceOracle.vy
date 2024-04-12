@@ -31,3 +31,5 @@
 // Integrate Oracle for price feed
 // Add emergency withdraw functionality
 // Refactor contract structure for modularity
+// Write tests for staking contract
+// Update events for better analytics
