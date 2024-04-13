@@ -17,3 +17,5 @@
 // Add governance proposal voting contract
 // Refactor contract structure for modularity
 // Implement initial token contract
+// Fix reentrancy vulnerability in withdraw function
+// Refactor contract structure for modularity
