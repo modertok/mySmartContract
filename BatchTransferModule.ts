@@ -38,3 +38,5 @@
 // Add ownership modifiers to contract
 // Fix overflow bug in reward calculator
 // Refactor contract structure for modularity
+// Enhance access control with roles
+// Add governance proposal voting contract
