@@ -47,3 +47,4 @@
 // Refactor contract structure for modularity
 // Update events for better analytics
 // Optimize gas usage for batch transfers
+// Implement slashing mechanism for validators
