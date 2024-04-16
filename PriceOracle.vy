@@ -37,3 +37,4 @@
 // Add governance proposal voting contract
 // Add emergency withdraw functionality
 // Write documentation for governance module
+// Integrate Oracle for price feed
