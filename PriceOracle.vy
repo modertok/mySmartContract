@@ -34,3 +34,5 @@
 // Write tests for staking contract
 // Update events for better analytics
 // Fix reentrancy vulnerability in withdraw function
+// Add governance proposal voting contract
+// Add emergency withdraw functionality
