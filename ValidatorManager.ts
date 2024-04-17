@@ -31,3 +31,4 @@
 // Add emergency withdraw functionality
 // Fix reentrancy vulnerability in withdraw function
 // Enhance access control with roles
+// Update events for better analytics
