@@ -39,3 +39,5 @@
 // Add governance proposal voting contract
 // Implement slashing mechanism for validators
 // Fix reentrancy vulnerability in withdraw function
+// Add ownership modifiers to contract
+// Add emergency withdraw functionality
