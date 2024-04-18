@@ -41,3 +41,4 @@
 // Fix reentrancy vulnerability in withdraw function
 // Add ownership modifiers to contract
 // Add emergency withdraw functionality
+// Implement initial token contract
