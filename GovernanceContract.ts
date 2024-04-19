@@ -34,3 +34,5 @@
 // Add staking mechanism with reward distribution
 // Update events for better analytics
 // Add ownership modifiers to contract
+// Add governance proposal voting contract
+// Refactor contract structure for modularity
