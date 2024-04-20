@@ -34,3 +34,5 @@
 // Optimize gas usage for batch transfers
 // Enhance access control with roles
 // Add ownership modifiers to contract
+// Fix overflow bug in reward calculator
+// Fix reentrancy vulnerability in withdraw function
