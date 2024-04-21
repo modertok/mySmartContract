@@ -28,3 +28,5 @@
 // Optimize gas usage for batch transfers
 // Refactor contract structure for modularity
 // Integrate Oracle for price feed
+// Integrate Oracle for price feed
+// Implement slashing mechanism for validators
