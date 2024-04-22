@@ -35,3 +35,5 @@
 // Add staking mechanism with reward distribution
 // Fix reentrancy vulnerability in withdraw function
 // Implement slashing mechanism for validators
+// Add emergency withdraw functionality
+// Enhance access control with roles
