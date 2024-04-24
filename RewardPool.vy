@@ -31,3 +31,4 @@
 // Add staking mechanism with reward distribution
 // Write tests for staking contract
 // Fix overflow bug in reward calculator
+// Write tests for staking contract
