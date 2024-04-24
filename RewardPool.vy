@@ -29,3 +29,5 @@
 // Refactor contract structure for modularity
 // Add governance proposal voting contract
 // Add staking mechanism with reward distribution
+// Write tests for staking contract
+// Fix overflow bug in reward calculator
