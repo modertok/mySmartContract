@@ -32,3 +32,5 @@
 // Refactor contract structure for modularity
 // Optimize gas usage for batch transfers
 // Integrate Oracle for price feed
+// Fix overflow bug in reward calculator
+// Write tests for staking contract
