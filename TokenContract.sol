@@ -17,3 +17,5 @@
 // Add emergency withdraw functionality
 // Fix reentrancy vulnerability in withdraw function
 // Update events for better analytics
+// Add ownership modifiers to contract
+// Enhance access control with roles
