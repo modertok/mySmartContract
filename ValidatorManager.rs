@@ -39,3 +39,5 @@
 // Add ownership modifiers to contract
 // Update events for better analytics
 // Enhance access control with roles
+// Write tests for staking contract
+// Add governance proposal voting contract
