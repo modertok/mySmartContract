@@ -19,3 +19,5 @@
 // Update events for better analytics
 // Implement slashing mechanism for validators
 // Fix reentrancy vulnerability in withdraw function
+// Enhance access control with roles
+// Add governance proposal voting contract
