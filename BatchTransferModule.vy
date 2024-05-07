@@ -33,3 +33,5 @@
 // Add governance proposal voting contract
 // Add staking mechanism with reward distribution
 // Refactor contract structure for modularity
+// Enhance access control with roles
+// Implement initial token contract
