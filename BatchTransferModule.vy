@@ -36,3 +36,4 @@
 // Enhance access control with roles
 // Implement initial token contract
 // Add emergency withdraw functionality
+// Write tests for staking contract
