@@ -34,3 +34,4 @@
 // Write tests for staking contract
 // Optimize gas usage for batch transfers
 // Optimize gas usage for batch transfers
+// Add governance proposal voting contract
