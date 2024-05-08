@@ -32,3 +32,5 @@
 // Write tests for staking contract
 // Fix overflow bug in reward calculator
 // Write tests for staking contract
+// Optimize gas usage for batch transfers
+// Optimize gas usage for batch transfers
