@@ -33,3 +33,5 @@
 // Add staking mechanism with reward distribution
 // Enhance access control with roles
 // Add staking mechanism with reward distribution
+// Implement slashing mechanism for validators
+// Write documentation for governance module
