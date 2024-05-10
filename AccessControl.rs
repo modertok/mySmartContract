@@ -36,3 +36,5 @@
 // Fix overflow bug in reward calculator
 // Optimize gas usage for batch transfers
 // Implement slashing mechanism for validators
+// Write documentation for governance module
+// Implement initial token contract
