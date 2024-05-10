@@ -38,3 +38,4 @@
 // Implement slashing mechanism for validators
 // Write documentation for governance module
 // Implement initial token contract
+// Enhance access control with roles
