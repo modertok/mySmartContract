@@ -40,3 +40,4 @@
 // Fix overflow bug in reward calculator
 // Refactor contract structure for modularity
 // Add ownership modifiers to contract
+// Write tests for staking contract
