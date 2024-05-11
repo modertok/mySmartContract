@@ -38,3 +38,5 @@
 // Add emergency withdraw functionality
 // Fix overflow bug in reward calculator
 // Fix overflow bug in reward calculator
+// Refactor contract structure for modularity
+// Add ownership modifiers to contract
