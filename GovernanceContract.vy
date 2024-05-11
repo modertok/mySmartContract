@@ -41,3 +41,4 @@
 // Refactor contract structure for modularity
 // Add ownership modifiers to contract
 // Write tests for staking contract
+// Enhance access control with roles
