@@ -38,3 +38,5 @@
 // Add emergency withdraw functionality
 // Write documentation for governance module
 // Integrate Oracle for price feed
+// Add staking mechanism with reward distribution
+// Refactor contract structure for modularity
