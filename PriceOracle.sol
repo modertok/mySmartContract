@@ -39,3 +39,5 @@
 // Add ownership modifiers to contract
 // Add staking mechanism with reward distribution
 // Integrate Oracle for price feed
+// Add governance proposal voting contract
+// Integrate Oracle for price feed
