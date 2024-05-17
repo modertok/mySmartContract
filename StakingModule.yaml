@@ -22,3 +22,5 @@
 // Add ownership modifiers to contract
 // Add staking mechanism with reward distribution
 // Add governance proposal voting contract
+// Add emergency withdraw functionality
+// Update events for better analytics
