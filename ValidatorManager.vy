@@ -30,3 +30,4 @@
 // Write documentation for governance module
 // Implement initial token contract
 // Add ownership modifiers to contract
+// Optimize gas usage for batch transfers
