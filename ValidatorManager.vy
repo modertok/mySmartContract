@@ -27,3 +27,5 @@
 // Integrate Oracle for price feed
 // Update events for better analytics
 // Write documentation for governance module
+// Write documentation for governance module
+// Implement initial token contract
