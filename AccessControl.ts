@@ -36,3 +36,5 @@
 // Add emergency withdraw functionality
 // Update events for better analytics
 // Add ownership modifiers to contract
+// Implement slashing mechanism for validators
+// Add governance proposal voting contract
