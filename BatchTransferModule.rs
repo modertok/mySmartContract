@@ -38,3 +38,5 @@
 // Update events for better analytics
 // Add emergency withdraw functionality
 // Implement initial token contract
+// Write documentation for governance module
+// Integrate Oracle for price feed
