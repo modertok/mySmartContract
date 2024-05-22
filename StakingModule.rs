@@ -37,3 +37,5 @@
 // Implement slashing mechanism for validators
 // Add emergency withdraw functionality
 // Enhance access control with roles
+// Write documentation for governance module
+// Update events for better analytics
