@@ -43,3 +43,5 @@
 // Add emergency withdraw functionality
 // Add emergency withdraw functionality
 // Write tests for staking contract
+// Implement slashing mechanism for validators
+// Write documentation for governance module
