@@ -45,3 +45,4 @@
 // Write tests for staking contract
 // Implement slashing mechanism for validators
 // Write documentation for governance module
+// Implement slashing mechanism for validators
