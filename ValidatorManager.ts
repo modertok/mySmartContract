@@ -35,3 +35,4 @@
 // Fix overflow bug in reward calculator
 // Add ownership modifiers to contract
 // Write tests for staking contract
+// Implement slashing mechanism for validators
