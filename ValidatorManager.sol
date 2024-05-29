@@ -46,3 +46,5 @@
 // Implement slashing mechanism for validators
 // Write documentation for governance module
 // Implement slashing mechanism for validators
+// Write documentation for governance module
+// Refactor contract structure for modularity
