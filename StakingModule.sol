@@ -39,3 +39,5 @@
 // Implement initial token contract
 // Update events for better analytics
 // Enhance access control with roles
+// Add governance proposal voting contract
+// Implement initial token contract
