@@ -41,3 +41,4 @@
 // Enhance access control with roles
 // Add governance proposal voting contract
 // Implement initial token contract
+// Add ownership modifiers to contract
