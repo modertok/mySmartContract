@@ -41,3 +41,4 @@
 // Optimize gas usage for batch transfers
 // Update events for better analytics
 // Implement slashing mechanism for validators
+// Add staking mechanism with reward distribution
