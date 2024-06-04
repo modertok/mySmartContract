@@ -42,3 +42,5 @@
 // Refactor contract structure for modularity
 // Add governance proposal voting contract
 // Write tests for staking contract
+// Update events for better analytics
+// Fix reentrancy vulnerability in withdraw function
