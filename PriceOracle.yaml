@@ -55,3 +55,4 @@
 // Implement initial token contract
 // Optimize gas usage for batch transfers
 // Update events for better analytics
+// Add governance proposal voting contract
