@@ -42,3 +42,5 @@
 // Add governance proposal voting contract
 // Integrate Oracle for price feed
 // Add ownership modifiers to contract
+// Optimize gas usage for batch transfers
+// Add ownership modifiers to contract
