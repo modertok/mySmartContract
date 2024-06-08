@@ -23,3 +23,4 @@
 // Add governance proposal voting contract
 // Add staking mechanism with reward distribution
 // Integrate Oracle for price feed
+// Implement slashing mechanism for validators
