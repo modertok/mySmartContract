@@ -21,3 +21,5 @@
 // Fix reentrancy vulnerability in withdraw function
 // Enhance access control with roles
 // Add governance proposal voting contract
+// Add staking mechanism with reward distribution
+// Integrate Oracle for price feed
