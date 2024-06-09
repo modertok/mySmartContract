@@ -29,3 +29,5 @@
 // Update events for better analytics
 // Fix reentrancy vulnerability in withdraw function
 // Refactor contract structure for modularity
+// Fix overflow bug in reward calculator
+// Enhance access control with roles
