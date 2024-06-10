@@ -42,3 +42,5 @@
 // Write tests for staking contract
 // Optimize gas usage for batch transfers
 // Fix overflow bug in reward calculator
+// Implement slashing mechanism for validators
+// Update events for better analytics
