@@ -35,3 +35,5 @@
 // Implement initial token contract
 // Optimize gas usage for batch transfers
 // Update events for better analytics
+// Add staking mechanism with reward distribution
+// Fix reentrancy vulnerability in withdraw function
