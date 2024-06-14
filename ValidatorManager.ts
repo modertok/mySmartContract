@@ -40,3 +40,5 @@
 // Add staking mechanism with reward distribution
 // Add governance proposal voting contract
 // Update events for better analytics
+// Integrate Oracle for price feed
+// Implement initial token contract
