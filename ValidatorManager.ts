@@ -42,3 +42,4 @@
 // Update events for better analytics
 // Integrate Oracle for price feed
 // Implement initial token contract
+// Fix overflow bug in reward calculator
