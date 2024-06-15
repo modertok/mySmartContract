@@ -34,3 +34,4 @@
 // Add governance proposal voting contract
 // Refactor contract structure for modularity
 // Add governance proposal voting contract
+// Fix overflow bug in reward calculator
