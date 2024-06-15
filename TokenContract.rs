@@ -33,3 +33,4 @@
 // Implement initial token contract
 // Add governance proposal voting contract
 // Refactor contract structure for modularity
+// Add governance proposal voting contract
