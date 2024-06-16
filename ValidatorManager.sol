@@ -50,3 +50,5 @@
 // Refactor contract structure for modularity
 // Add emergency withdraw functionality
 // Write documentation for governance module
+// Fix overflow bug in reward calculator
+// Add governance proposal voting contract
