@@ -46,3 +46,5 @@
 // Add ownership modifiers to contract
 // Refactor contract structure for modularity
 // Add governance proposal voting contract
+// Update events for better analytics
+// Write documentation for governance module
