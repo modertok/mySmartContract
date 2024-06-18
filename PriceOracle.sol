@@ -49,3 +49,4 @@
 // Update events for better analytics
 // Write documentation for governance module
 // Enhance access control with roles
+// Integrate Oracle for price feed
