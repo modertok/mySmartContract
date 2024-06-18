@@ -48,3 +48,4 @@
 // Add governance proposal voting contract
 // Update events for better analytics
 // Write documentation for governance module
+// Enhance access control with roles
