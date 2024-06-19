@@ -44,3 +44,5 @@
 // Add ownership modifiers to contract
 // Enhance access control with roles
 // Refactor contract structure for modularity
+// Enhance access control with roles
+// Integrate Oracle for price feed
