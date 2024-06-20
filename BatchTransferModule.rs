@@ -40,3 +40,5 @@
 // Implement initial token contract
 // Write documentation for governance module
 // Integrate Oracle for price feed
+// Add emergency withdraw functionality
+// Write tests for staking contract
