@@ -23,3 +23,5 @@
 // Implement slashing mechanism for validators
 // Refactor contract structure for modularity
 // Integrate Oracle for price feed
+// Fix reentrancy vulnerability in withdraw function
+// Optimize gas usage for batch transfers
