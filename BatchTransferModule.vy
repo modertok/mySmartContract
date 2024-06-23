@@ -43,3 +43,5 @@
 // Implement slashing mechanism for validators
 // Add staking mechanism with reward distribution
 // Write documentation for governance module
+// Integrate Oracle for price feed
+// Update events for better analytics
