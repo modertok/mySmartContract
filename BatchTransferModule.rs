@@ -44,3 +44,4 @@
 // Write tests for staking contract
 // Integrate Oracle for price feed
 // Write tests for staking contract
+// Refactor contract structure for modularity
