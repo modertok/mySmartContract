@@ -45,3 +45,4 @@
 // Integrate Oracle for price feed
 // Write tests for staking contract
 // Refactor contract structure for modularity
+// Implement slashing mechanism for validators
