@@ -42,3 +42,5 @@
 // Integrate Oracle for price feed
 // Add emergency withdraw functionality
 // Write tests for staking contract
+// Integrate Oracle for price feed
+// Write tests for staking contract
