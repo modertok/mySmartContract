@@ -47,3 +47,5 @@
 // Enhance access control with roles
 // Integrate Oracle for price feed
 // Implement initial token contract
+// Add governance proposal voting contract
+// Update events for better analytics
