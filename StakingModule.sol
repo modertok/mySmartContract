@@ -49,3 +49,4 @@
 // Implement initial token contract
 // Add governance proposal voting contract
 // Update events for better analytics
+// Implement slashing mechanism for validators
