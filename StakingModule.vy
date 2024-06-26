@@ -23,3 +23,5 @@
 // Implement slashing mechanism for validators
 // Enhance access control with roles
 // Fix overflow bug in reward calculator
+// Add emergency withdraw functionality
+// Add ownership modifiers to contract
