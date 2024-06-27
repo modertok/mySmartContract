@@ -27,3 +27,4 @@
 // Implement slashing mechanism for validators
 // Integrate Oracle for price feed
 // Add emergency withdraw functionality
+// Integrate Oracle for price feed
