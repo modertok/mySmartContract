@@ -24,3 +24,5 @@
 // Add staking mechanism with reward distribution
 // Integrate Oracle for price feed
 // Implement slashing mechanism for validators
+// Implement slashing mechanism for validators
+// Integrate Oracle for price feed
