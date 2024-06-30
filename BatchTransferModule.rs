@@ -46,3 +46,5 @@
 // Write tests for staking contract
 // Refactor contract structure for modularity
 // Implement slashing mechanism for validators
+// Optimize gas usage for batch transfers
+// Refactor contract structure for modularity
