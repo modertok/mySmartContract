@@ -40,3 +40,5 @@
 // Integrate Oracle for price feed
 // Update events for better analytics
 // Fix overflow bug in reward calculator
+// Add staking mechanism with reward distribution
+// Refactor contract structure for modularity
