@@ -44,3 +44,4 @@
 // Update events for better analytics
 // Write tests for staking contract
 // Implement initial token contract
+// Optimize gas usage for batch transfers
