@@ -13,3 +13,5 @@
 // Write documentation for governance module
 // Write tests for staking contract
 // Refactor contract structure for modularity
+// Add governance proposal voting contract
+// Enhance access control with roles
