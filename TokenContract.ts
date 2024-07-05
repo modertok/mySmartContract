@@ -34,3 +34,4 @@
 // Write tests for staking contract
 // Integrate Oracle for price feed
 // Optimize gas usage for batch transfers
+// Optimize gas usage for batch transfers
