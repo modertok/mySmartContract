@@ -45,3 +45,5 @@
 // Write documentation for governance module
 // Integrate Oracle for price feed
 // Update events for better analytics
+// Write tests for staking contract
+// Fix reentrancy vulnerability in withdraw function
