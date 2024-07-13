@@ -53,3 +53,5 @@
 // Integrate Oracle for price feed
 // Write documentation for governance module
 // Optimize gas usage for batch transfers
+// Add ownership modifiers to contract
+// Implement slashing mechanism for validators
