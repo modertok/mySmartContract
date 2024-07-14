@@ -20,3 +20,5 @@
 // Fix reentrancy vulnerability in withdraw function
 // Refactor contract structure for modularity
 // Fix reentrancy vulnerability in withdraw function
+// Integrate Oracle for price feed
+// Fix overflow bug in reward calculator
