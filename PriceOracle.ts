@@ -22,3 +22,4 @@
 // Fix reentrancy vulnerability in withdraw function
 // Integrate Oracle for price feed
 // Fix overflow bug in reward calculator
+// Integrate Oracle for price feed
