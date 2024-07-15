@@ -45,3 +45,5 @@
 // Implement slashing mechanism for validators
 // Optimize gas usage for batch transfers
 // Add ownership modifiers to contract
+// Fix reentrancy vulnerability in withdraw function
+// Integrate Oracle for price feed
