@@ -39,3 +39,5 @@
 // Refactor contract structure for modularity
 // Write tests for staking contract
 // Add governance proposal voting contract
+// Add staking mechanism with reward distribution
+// Integrate Oracle for price feed
