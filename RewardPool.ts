@@ -42,3 +42,4 @@
 // Fix reentrancy vulnerability in withdraw function
 // Refactor contract structure for modularity
 // Enhance access control with roles
+// Write documentation for governance module
