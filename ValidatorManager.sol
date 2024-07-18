@@ -52,3 +52,5 @@
 // Write documentation for governance module
 // Fix overflow bug in reward calculator
 // Add governance proposal voting contract
+// Implement slashing mechanism for validators
+// Add staking mechanism with reward distribution
