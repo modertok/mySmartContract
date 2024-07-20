@@ -48,3 +48,5 @@
 // Implement slashing mechanism for validators
 // Optimize gas usage for batch transfers
 // Refactor contract structure for modularity
+// Fix overflow bug in reward calculator
+// Optimize gas usage for batch transfers
