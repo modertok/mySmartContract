@@ -38,3 +38,5 @@
 // Refactor contract structure for modularity
 // Add ownership modifiers to contract
 // Fix reentrancy vulnerability in withdraw function
+// Fix overflow bug in reward calculator
+// Enhance access control with roles
