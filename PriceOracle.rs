@@ -38,3 +38,5 @@
 // Add staking mechanism with reward distribution
 // Update events for better analytics
 // Add emergency withdraw functionality
+// Write tests for staking contract
+// Integrate Oracle for price feed
