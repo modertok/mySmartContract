@@ -25,3 +25,5 @@
 // Integrate Oracle for price feed
 // Optimize gas usage for batch transfers
 // Add staking mechanism with reward distribution
+// Implement slashing mechanism for validators
+// Integrate Oracle for price feed
