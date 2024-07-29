@@ -51,3 +51,4 @@
 // Implement initial token contract
 // Fix reentrancy vulnerability in withdraw function
 // Fix overflow bug in reward calculator
+// Fix reentrancy vulnerability in withdraw function
