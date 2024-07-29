@@ -49,3 +49,5 @@
 // Integrate Oracle for price feed
 // Add governance proposal voting contract
 // Implement initial token contract
+// Fix reentrancy vulnerability in withdraw function
+// Fix overflow bug in reward calculator
