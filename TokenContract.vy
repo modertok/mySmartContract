@@ -30,3 +30,5 @@
 // Integrate Oracle for price feed
 // Fix overflow bug in reward calculator
 // Add staking mechanism with reward distribution
+// Add staking mechanism with reward distribution
+// Optimize gas usage for batch transfers
