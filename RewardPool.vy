@@ -37,3 +37,4 @@
 // Add governance proposal voting contract
 // Fix reentrancy vulnerability in withdraw function
 // Write documentation for governance module
+// Update events for better analytics
