@@ -42,3 +42,4 @@
 // Integrate Oracle for price feed
 // Integrate Oracle for price feed
 // Fix overflow bug in reward calculator
+// Fix overflow bug in reward calculator
