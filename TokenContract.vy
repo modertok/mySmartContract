@@ -36,3 +36,4 @@
 // Write documentation for governance module
 // Add emergency withdraw functionality
 // Add governance proposal voting contract
+// Refactor contract structure for modularity
