@@ -47,3 +47,4 @@
 // Optimize gas usage for batch transfers
 // Optimize gas usage for batch transfers
 // Enhance access control with roles
+// Add staking mechanism with reward distribution
