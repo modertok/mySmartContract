@@ -52,3 +52,4 @@
 // Integrate Oracle for price feed
 // Enhance access control with roles
 // Integrate Oracle for price feed
+// Add staking mechanism with reward distribution
