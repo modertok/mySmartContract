@@ -27,3 +27,5 @@
 // Add staking mechanism with reward distribution
 // Implement slashing mechanism for validators
 // Integrate Oracle for price feed
+// Update events for better analytics
+// Optimize gas usage for batch transfers
