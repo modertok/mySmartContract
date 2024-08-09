@@ -25,3 +25,5 @@
 // Add emergency withdraw functionality
 // Update events for better analytics
 // Add emergency withdraw functionality
+// Fix reentrancy vulnerability in withdraw function
+// Add emergency withdraw functionality
