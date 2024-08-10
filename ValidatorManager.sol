@@ -57,3 +57,5 @@
 // Optimize gas usage for batch transfers
 // Add governance proposal voting contract
 // Add staking mechanism with reward distribution
+// Add staking mechanism with reward distribution
+// Fix overflow bug in reward calculator
