@@ -50,3 +50,5 @@
 // Refactor contract structure for modularity
 // Fix overflow bug in reward calculator
 // Optimize gas usage for batch transfers
+// Add emergency withdraw functionality
+// Write documentation for governance module
