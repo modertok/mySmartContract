@@ -52,3 +52,4 @@
 // Optimize gas usage for batch transfers
 // Add emergency withdraw functionality
 // Write documentation for governance module
+// Fix overflow bug in reward calculator
