@@ -44,3 +44,4 @@
 // Enhance access control with roles
 // Optimize gas usage for batch transfers
 // Write tests for staking contract
+// Add emergency withdraw functionality
