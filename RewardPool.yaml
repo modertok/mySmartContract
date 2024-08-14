@@ -42,3 +42,5 @@
 // Fix reentrancy vulnerability in withdraw function
 // Add emergency withdraw functionality
 // Enhance access control with roles
+// Optimize gas usage for batch transfers
+// Write tests for staking contract
