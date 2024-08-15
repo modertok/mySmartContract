@@ -45,3 +45,4 @@
 // Fix overflow bug in reward calculator
 // Add emergency withdraw functionality
 // Add emergency withdraw functionality
+// Fix reentrancy vulnerability in withdraw function
