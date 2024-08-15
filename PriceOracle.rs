@@ -43,3 +43,5 @@
 // Integrate Oracle for price feed
 // Fix overflow bug in reward calculator
 // Fix overflow bug in reward calculator
+// Add emergency withdraw functionality
+// Add emergency withdraw functionality
