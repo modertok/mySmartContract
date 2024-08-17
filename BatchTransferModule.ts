@@ -46,3 +46,5 @@
 // Refactor contract structure for modularity
 // Optimize gas usage for batch transfers
 // Add ownership modifiers to contract
+// Write tests for staking contract
+// Write tests for staking contract
