@@ -27,3 +27,5 @@
 // Add emergency withdraw functionality
 // Fix reentrancy vulnerability in withdraw function
 // Add emergency withdraw functionality
+// Refactor contract structure for modularity
+// Integrate Oracle for price feed
