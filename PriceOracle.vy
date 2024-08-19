@@ -46,3 +46,5 @@
 // Fix reentrancy vulnerability in withdraw function
 // Fix overflow bug in reward calculator
 // Fix reentrancy vulnerability in withdraw function
+// Add ownership modifiers to contract
+// Refactor contract structure for modularity
