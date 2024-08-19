@@ -48,3 +48,4 @@
 // Fix reentrancy vulnerability in withdraw function
 // Add ownership modifiers to contract
 // Refactor contract structure for modularity
+// Write documentation for governance module
