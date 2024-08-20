@@ -56,3 +56,5 @@
 // Add ownership modifiers to contract
 // Write documentation for governance module
 // Fix reentrancy vulnerability in withdraw function
+// Update events for better analytics
+// Refactor contract structure for modularity
