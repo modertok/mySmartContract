@@ -58,3 +58,4 @@
 // Fix reentrancy vulnerability in withdraw function
 // Update events for better analytics
 // Refactor contract structure for modularity
+// Add staking mechanism with reward distribution
