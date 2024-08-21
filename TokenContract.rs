@@ -44,3 +44,4 @@
 // Add ownership modifiers to contract
 // Add governance proposal voting contract
 // Fix reentrancy vulnerability in withdraw function
+// Write tests for staking contract
