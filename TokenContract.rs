@@ -42,3 +42,5 @@
 // Add staking mechanism with reward distribution
 // Integrate Oracle for price feed
 // Add ownership modifiers to contract
+// Add governance proposal voting contract
+// Fix reentrancy vulnerability in withdraw function
