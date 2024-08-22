@@ -46,3 +46,5 @@
 // Implement initial token contract
 // Optimize gas usage for batch transfers
 // Integrate Oracle for price feed
+// Implement slashing mechanism for validators
+// Add governance proposal voting contract
