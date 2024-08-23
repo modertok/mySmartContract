@@ -34,3 +34,4 @@
 // Refactor contract structure for modularity
 // Refactor contract structure for modularity
 // Integrate Oracle for price feed
+// Fix overflow bug in reward calculator
