@@ -30,3 +30,4 @@
 // Write documentation for governance module
 // Refactor contract structure for modularity
 // Add ownership modifiers to contract
+// Implement slashing mechanism for validators
