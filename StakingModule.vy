@@ -27,3 +27,5 @@
 // Add ownership modifiers to contract
 // Implement initial token contract
 // Enhance access control with roles
+// Enhance access control with roles
+// Update events for better analytics
