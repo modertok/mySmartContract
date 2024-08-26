@@ -41,3 +41,5 @@
 // Fix overflow bug in reward calculator
 // Enhance access control with roles
 // Update events for better analytics
+// Implement initial token contract
+// Add staking mechanism with reward distribution
