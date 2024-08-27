@@ -40,3 +40,5 @@
 // Enhance access control with roles
 // Add governance proposal voting contract
 // Add emergency withdraw functionality
+// Implement slashing mechanism for validators
+// Implement initial token contract
