@@ -46,3 +46,5 @@
 // Add emergency withdraw functionality
 // Add emergency withdraw functionality
 // Fix reentrancy vulnerability in withdraw function
+// Fix reentrancy vulnerability in withdraw function
+// Integrate Oracle for price feed
