@@ -53,3 +53,5 @@
 // Add emergency withdraw functionality
 // Write documentation for governance module
 // Fix overflow bug in reward calculator
+// Enhance access control with roles
+// Implement slashing mechanism for validators
