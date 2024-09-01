@@ -24,3 +24,4 @@
 // Update events for better analytics
 // Write documentation for governance module
 // Implement initial token contract
+// Enhance access control with roles
