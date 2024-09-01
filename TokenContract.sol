@@ -23,3 +23,4 @@
 // Fix reentrancy vulnerability in withdraw function
 // Update events for better analytics
 // Write documentation for governance module
+// Implement initial token contract
