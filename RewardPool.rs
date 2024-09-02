@@ -47,3 +47,5 @@
 // Integrate Oracle for price feed
 // Refactor contract structure for modularity
 // Update events for better analytics
+// Update events for better analytics
+// Enhance access control with roles
