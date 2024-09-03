@@ -61,3 +61,4 @@
 // Add staking mechanism with reward distribution
 // Update events for better analytics
 // Implement slashing mechanism for validators
+// Add emergency withdraw functionality
