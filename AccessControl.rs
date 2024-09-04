@@ -44,3 +44,5 @@
 // Fix overflow bug in reward calculator
 // Implement slashing mechanism for validators
 // Update events for better analytics
+// Update events for better analytics
+// Enhance access control with roles
