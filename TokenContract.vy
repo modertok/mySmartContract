@@ -39,3 +39,4 @@
 // Refactor contract structure for modularity
 // Implement slashing mechanism for validators
 // Write documentation for governance module
+// Add staking mechanism with reward distribution
