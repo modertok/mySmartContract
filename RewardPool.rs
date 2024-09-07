@@ -49,3 +49,5 @@
 // Update events for better analytics
 // Update events for better analytics
 // Enhance access control with roles
+// Add staking mechanism with reward distribution
+// Add emergency withdraw functionality
