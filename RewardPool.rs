@@ -53,3 +53,4 @@
 // Add emergency withdraw functionality
 // Integrate Oracle for price feed
 // Update events for better analytics
+// Add governance proposal voting contract
