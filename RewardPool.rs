@@ -51,3 +51,5 @@
 // Enhance access control with roles
 // Add staking mechanism with reward distribution
 // Add emergency withdraw functionality
+// Integrate Oracle for price feed
+// Update events for better analytics
