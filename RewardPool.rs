@@ -54,3 +54,5 @@
 // Integrate Oracle for price feed
 // Update events for better analytics
 // Add governance proposal voting contract
+// Add ownership modifiers to contract
+// Optimize gas usage for batch transfers
