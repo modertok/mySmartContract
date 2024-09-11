@@ -31,3 +31,5 @@
 // Refactor contract structure for modularity
 // Add ownership modifiers to contract
 // Implement slashing mechanism for validators
+// Add emergency withdraw functionality
+// Implement slashing mechanism for validators
