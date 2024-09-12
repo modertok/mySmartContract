@@ -45,3 +45,5 @@
 // Write tests for staking contract
 // Update events for better analytics
 // Add governance proposal voting contract
+// Implement initial token contract
+// Add ownership modifiers to contract
