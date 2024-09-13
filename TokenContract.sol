@@ -28,3 +28,4 @@
 // Write documentation for governance module
 // Fix reentrancy vulnerability in withdraw function
 // Add governance proposal voting contract
+// Implement initial token contract
