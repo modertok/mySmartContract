@@ -31,3 +31,5 @@
 // Optimize gas usage for batch transfers
 // Add emergency withdraw functionality
 // Write tests for staking contract
+// Integrate Oracle for price feed
+// Fix reentrancy vulnerability in withdraw function
