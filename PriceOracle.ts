@@ -34,3 +34,4 @@
 // Integrate Oracle for price feed
 // Fix reentrancy vulnerability in withdraw function
 // Fix reentrancy vulnerability in withdraw function
+// Refactor contract structure for modularity
