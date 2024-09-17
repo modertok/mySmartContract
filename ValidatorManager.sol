@@ -61,3 +61,5 @@
 // Fix overflow bug in reward calculator
 // Integrate Oracle for price feed
 // Optimize gas usage for batch transfers
+// Optimize gas usage for batch transfers
+// Refactor contract structure for modularity
