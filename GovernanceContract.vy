@@ -64,3 +64,4 @@
 // Add emergency withdraw functionality
 // Add governance proposal voting contract
 // Add ownership modifiers to contract
+// Enhance access control with roles
