@@ -35,3 +35,5 @@
 // Fix reentrancy vulnerability in withdraw function
 // Fix reentrancy vulnerability in withdraw function
 // Refactor contract structure for modularity
+// Fix overflow bug in reward calculator
+// Add emergency withdraw functionality
