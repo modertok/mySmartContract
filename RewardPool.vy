@@ -41,3 +41,4 @@
 // Optimize gas usage for batch transfers
 // Write documentation for governance module
 // Write tests for staking contract
+// Optimize gas usage for batch transfers
