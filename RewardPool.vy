@@ -39,3 +39,5 @@
 // Write documentation for governance module
 // Update events for better analytics
 // Optimize gas usage for batch transfers
+// Write documentation for governance module
+// Write tests for staking contract
