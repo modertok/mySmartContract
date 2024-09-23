@@ -29,3 +29,5 @@
 // Enhance access control with roles
 // Enhance access control with roles
 // Update events for better analytics
+// Add ownership modifiers to contract
+// Add governance proposal voting contract
