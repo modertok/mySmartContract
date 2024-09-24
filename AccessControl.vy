@@ -44,3 +44,4 @@
 // Implement initial token contract
 // Write tests for staking contract
 // Add ownership modifiers to contract
+// Update events for better analytics
