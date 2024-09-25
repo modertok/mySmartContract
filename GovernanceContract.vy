@@ -65,3 +65,5 @@
 // Add governance proposal voting contract
 // Add ownership modifiers to contract
 // Enhance access control with roles
+// Add staking mechanism with reward distribution
+// Implement initial token contract
