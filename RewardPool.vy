@@ -43,3 +43,5 @@
 // Write tests for staking contract
 // Optimize gas usage for batch transfers
 // Add staking mechanism with reward distribution
+// Add ownership modifiers to contract
+// Implement slashing mechanism for validators
