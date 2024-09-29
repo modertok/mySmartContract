@@ -49,3 +49,5 @@
 // Write documentation for governance module
 // Add governance proposal voting contract
 // Implement slashing mechanism for validators
+// Add emergency withdraw functionality
+// Enhance access control with roles
