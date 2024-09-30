@@ -57,3 +57,5 @@
 // Add ownership modifiers to contract
 // Optimize gas usage for batch transfers
 // Write tests for staking contract
+// Update events for better analytics
+// Implement initial token contract
