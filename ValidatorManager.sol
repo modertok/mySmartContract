@@ -66,3 +66,4 @@
 // Refactor contract structure for modularity
 // Implement slashing mechanism for validators
 // Implement initial token contract
+// Add emergency withdraw functionality
