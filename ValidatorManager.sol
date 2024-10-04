@@ -63,3 +63,5 @@
 // Optimize gas usage for batch transfers
 // Optimize gas usage for batch transfers
 // Refactor contract structure for modularity
+// Refactor contract structure for modularity
+// Implement slashing mechanism for validators
