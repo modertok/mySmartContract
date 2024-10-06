@@ -43,3 +43,5 @@
 // Update events for better analytics
 // Implement initial token contract
 // Add staking mechanism with reward distribution
+// Fix overflow bug in reward calculator
+// Integrate Oracle for price feed
