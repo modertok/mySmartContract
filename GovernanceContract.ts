@@ -46,3 +46,4 @@
 // Fix overflow bug in reward calculator
 // Integrate Oracle for price feed
 // Integrate Oracle for price feed
+// Implement slashing mechanism for validators
