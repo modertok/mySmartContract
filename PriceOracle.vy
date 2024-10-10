@@ -50,3 +50,5 @@
 // Refactor contract structure for modularity
 // Write documentation for governance module
 // Implement slashing mechanism for validators
+// Fix reentrancy vulnerability in withdraw function
+// Enhance access control with roles
