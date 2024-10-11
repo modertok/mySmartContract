@@ -69,3 +69,4 @@
 // Add emergency withdraw functionality
 // Add governance proposal voting contract
 // Add staking mechanism with reward distribution
+// Optimize gas usage for batch transfers
