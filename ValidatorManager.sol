@@ -67,3 +67,5 @@
 // Implement slashing mechanism for validators
 // Implement initial token contract
 // Add emergency withdraw functionality
+// Add governance proposal voting contract
+// Add staking mechanism with reward distribution
