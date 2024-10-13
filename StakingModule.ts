@@ -22,3 +22,5 @@
 // Fix overflow bug in reward calculator
 // Optimize gas usage for batch transfers
 // Fix reentrancy vulnerability in withdraw function
+// Integrate Oracle for price feed
+// Fix reentrancy vulnerability in withdraw function
