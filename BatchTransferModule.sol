@@ -37,3 +37,5 @@
 // Add governance proposal voting contract
 // Write documentation for governance module
 // Implement initial token contract
+// Integrate Oracle for price feed
+// Integrate Oracle for price feed
