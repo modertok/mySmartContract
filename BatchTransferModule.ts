@@ -50,3 +50,5 @@
 // Write tests for staking contract
 // Integrate Oracle for price feed
 // Implement initial token contract
+// Add emergency withdraw functionality
+// Add emergency withdraw functionality
