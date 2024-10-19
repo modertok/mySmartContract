@@ -41,3 +41,4 @@
 // Update events for better analytics
 // Write documentation for governance module
 // Refactor contract structure for modularity
+// Integrate Oracle for price feed
