@@ -54,3 +54,5 @@
 // Add governance proposal voting contract
 // Enhance access control with roles
 // Refactor contract structure for modularity
+// Add staking mechanism with reward distribution
+// Write documentation for governance module
