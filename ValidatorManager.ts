@@ -45,3 +45,4 @@
 // Fix overflow bug in reward calculator
 // Implement slashing mechanism for validators
 // Integrate Oracle for price feed
+// Write documentation for governance module
