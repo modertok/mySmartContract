@@ -53,3 +53,5 @@
 // Add ownership modifiers to contract
 // Refactor contract structure for modularity
 // Write tests for staking contract
+// Fix overflow bug in reward calculator
+// Write documentation for governance module
