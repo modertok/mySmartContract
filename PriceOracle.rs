@@ -55,3 +55,4 @@
 // Write tests for staking contract
 // Fix overflow bug in reward calculator
 // Write documentation for governance module
+// Optimize gas usage for batch transfers
