@@ -52,3 +52,5 @@
 // Enhance access control with roles
 // Implement slashing mechanism for validators
 // Add governance proposal voting contract
+// Update events for better analytics
+// Integrate Oracle for price feed
