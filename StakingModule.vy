@@ -32,3 +32,5 @@
 // Add ownership modifiers to contract
 // Add governance proposal voting contract
 // Implement slashing mechanism for validators
+// Add staking mechanism with reward distribution
+// Add emergency withdraw functionality
