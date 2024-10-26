@@ -48,3 +48,5 @@
 // Optimize gas usage for batch transfers
 // Enhance access control with roles
 // Add staking mechanism with reward distribution
+// Add ownership modifiers to contract
+// Fix reentrancy vulnerability in withdraw function
