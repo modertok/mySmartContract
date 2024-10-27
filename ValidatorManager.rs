@@ -54,3 +54,5 @@
 // Add governance proposal voting contract
 // Update events for better analytics
 // Integrate Oracle for price feed
+// Write tests for staking contract
+// Implement slashing mechanism for validators
