@@ -41,3 +41,4 @@
 // Write documentation for governance module
 // Refactor contract structure for modularity
 // Implement initial token contract
+// Update events for better analytics
