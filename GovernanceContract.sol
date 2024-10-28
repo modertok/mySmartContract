@@ -38,3 +38,5 @@
 // Add staking mechanism with reward distribution
 // Fix reentrancy vulnerability in withdraw function
 // Add emergency withdraw functionality
+// Write documentation for governance module
+// Refactor contract structure for modularity
