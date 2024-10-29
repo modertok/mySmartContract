@@ -39,3 +39,5 @@
 // Add emergency withdraw functionality
 // Write documentation for governance module
 // Add emergency withdraw functionality
+// Refactor contract structure for modularity
+// Add emergency withdraw functionality
