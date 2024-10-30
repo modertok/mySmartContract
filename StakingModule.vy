@@ -37,3 +37,4 @@
 // Add emergency withdraw functionality
 // Integrate Oracle for price feed
 // Add staking mechanism with reward distribution
+// Optimize gas usage for batch transfers
