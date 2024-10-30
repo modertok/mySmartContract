@@ -38,3 +38,4 @@
 // Integrate Oracle for price feed
 // Add staking mechanism with reward distribution
 // Optimize gas usage for batch transfers
+// Add ownership modifiers to contract
