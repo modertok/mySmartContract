@@ -40,3 +40,5 @@
 // Implement slashing mechanism for validators
 // Write documentation for governance module
 // Add staking mechanism with reward distribution
+// Update events for better analytics
+// Update events for better analytics
