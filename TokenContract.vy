@@ -43,3 +43,4 @@
 // Update events for better analytics
 // Update events for better analytics
 // Add ownership modifiers to contract
+// Fix overflow bug in reward calculator
