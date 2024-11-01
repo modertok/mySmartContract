@@ -49,3 +49,4 @@
 // Fix reentrancy vulnerability in withdraw function
 // Implement slashing mechanism for validators
 // Optimize gas usage for batch transfers
+// Add ownership modifiers to contract
