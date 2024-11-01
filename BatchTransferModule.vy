@@ -47,3 +47,5 @@
 // Update events for better analytics
 // Write tests for staking contract
 // Fix reentrancy vulnerability in withdraw function
+// Implement slashing mechanism for validators
+// Optimize gas usage for batch transfers
