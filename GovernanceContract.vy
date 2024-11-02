@@ -71,3 +71,4 @@
 // Add staking mechanism with reward distribution
 // Implement initial token contract
 // Add emergency withdraw functionality
+// Add ownership modifiers to contract
