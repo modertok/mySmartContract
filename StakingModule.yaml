@@ -50,3 +50,5 @@
 // Write documentation for governance module
 // Implement initial token contract
 // Implement initial token contract
+// Enhance access control with roles
+// Integrate Oracle for price feed
