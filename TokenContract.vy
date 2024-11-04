@@ -46,3 +46,4 @@
 // Fix overflow bug in reward calculator
 // Enhance access control with roles
 // Add ownership modifiers to contract
+// Implement initial token contract
