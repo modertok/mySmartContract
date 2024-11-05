@@ -45,3 +45,5 @@
 // Add staking mechanism with reward distribution
 // Add ownership modifiers to contract
 // Implement slashing mechanism for validators
+// Update events for better analytics
+// Update events for better analytics
