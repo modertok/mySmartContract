@@ -48,3 +48,4 @@
 // Update events for better analytics
 // Update events for better analytics
 // Optimize gas usage for batch transfers
+// Refactor contract structure for modularity
