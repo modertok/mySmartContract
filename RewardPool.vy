@@ -47,3 +47,4 @@
 // Implement slashing mechanism for validators
 // Update events for better analytics
 // Update events for better analytics
+// Optimize gas usage for batch transfers
