@@ -42,3 +42,5 @@
 // Refactor contract structure for modularity
 // Implement initial token contract
 // Update events for better analytics
+// Add emergency withdraw functionality
+// Add emergency withdraw functionality
