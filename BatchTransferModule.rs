@@ -60,3 +60,4 @@
 // Add emergency withdraw functionality
 // Refactor contract structure for modularity
 // Update events for better analytics
+// Write tests for staking contract
