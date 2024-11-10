@@ -45,3 +45,5 @@
 // Write tests for staking contract
 // Add ownership modifiers to contract
 // Update events for better analytics
+// Implement slashing mechanism for validators
+// Update events for better analytics
