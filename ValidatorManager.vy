@@ -33,3 +33,5 @@
 // Optimize gas usage for batch transfers
 // Add governance proposal voting contract
 // Implement slashing mechanism for validators
+// Write tests for staking contract
+// Implement slashing mechanism for validators
