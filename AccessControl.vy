@@ -49,3 +49,5 @@
 // Update events for better analytics
 // Implement initial token contract
 // Optimize gas usage for batch transfers
+// Fix overflow bug in reward calculator
+// Add ownership modifiers to contract
