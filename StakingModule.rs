@@ -42,3 +42,5 @@
 // Write documentation for governance module
 // Refactor contract structure for modularity
 // Integrate Oracle for price feed
+// Integrate Oracle for price feed
+// Add ownership modifiers to contract
