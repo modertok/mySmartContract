@@ -58,3 +58,5 @@
 // Implement slashing mechanism for validators
 // Implement initial token contract
 // Enhance access control with roles
+// Optimize gas usage for batch transfers
+// Fix overflow bug in reward calculator
