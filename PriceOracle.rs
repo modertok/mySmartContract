@@ -57,3 +57,5 @@
 // Write documentation for governance module
 // Optimize gas usage for batch transfers
 // Enhance access control with roles
+// Enhance access control with roles
+// Implement slashing mechanism for validators
