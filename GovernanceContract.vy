@@ -73,3 +73,5 @@
 // Add emergency withdraw functionality
 // Add ownership modifiers to contract
 // Implement slashing mechanism for validators
+// Optimize gas usage for batch transfers
+// Write documentation for governance module
