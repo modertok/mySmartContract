@@ -52,3 +52,5 @@
 // Implement slashing mechanism for validators
 // Fix reentrancy vulnerability in withdraw function
 // Enhance access control with roles
+// Add governance proposal voting contract
+// Integrate Oracle for price feed
