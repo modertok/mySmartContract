@@ -40,3 +40,5 @@
 // Integrate Oracle for price feed
 // Integrate Oracle for price feed
 // Implement initial token contract
+// Implement initial token contract
+// Enhance access control with roles
