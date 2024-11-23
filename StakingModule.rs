@@ -48,3 +48,4 @@
 // Write documentation for governance module
 // Add staking mechanism with reward distribution
 // Fix reentrancy vulnerability in withdraw function
+// Add governance proposal voting contract
