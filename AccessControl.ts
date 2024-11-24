@@ -46,3 +46,5 @@
 // Implement initial token contract
 // Enhance access control with roles
 // Add ownership modifiers to contract
+// Integrate Oracle for price feed
+// Add emergency withdraw functionality
