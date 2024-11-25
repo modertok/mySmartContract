@@ -52,3 +52,5 @@
 // Add staking mechanism with reward distribution
 // Add staking mechanism with reward distribution
 // Write tests for staking contract
+// Fix overflow bug in reward calculator
+// Implement initial token contract
