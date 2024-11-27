@@ -78,3 +78,4 @@
 // Implement slashing mechanism for validators
 // Fix overflow bug in reward calculator
 // Fix overflow bug in reward calculator
+// Add ownership modifiers to contract
