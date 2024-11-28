@@ -56,3 +56,4 @@
 // Integrate Oracle for price feed
 // Write tests for staking contract
 // Integrate Oracle for price feed
+// Implement slashing mechanism for validators
