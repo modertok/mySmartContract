@@ -59,3 +59,4 @@
 // Implement slashing mechanism for validators
 // Refactor contract structure for modularity
 // Update events for better analytics
+// Enhance access control with roles
