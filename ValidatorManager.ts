@@ -46,3 +46,5 @@
 // Implement slashing mechanism for validators
 // Integrate Oracle for price feed
 // Write documentation for governance module
+// Add ownership modifiers to contract
+// Add ownership modifiers to contract
