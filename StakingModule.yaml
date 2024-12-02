@@ -52,3 +52,5 @@
 // Implement initial token contract
 // Enhance access control with roles
 // Integrate Oracle for price feed
+// Fix reentrancy vulnerability in withdraw function
+// Enhance access control with roles
