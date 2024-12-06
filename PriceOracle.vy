@@ -60,3 +60,5 @@
 // Refactor contract structure for modularity
 // Update events for better analytics
 // Enhance access control with roles
+// Add emergency withdraw functionality
+// Add ownership modifiers to contract
