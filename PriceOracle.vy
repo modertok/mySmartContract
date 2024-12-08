@@ -66,3 +66,4 @@
 // Refactor contract structure for modularity
 // Add governance proposal voting contract
 // Add staking mechanism with reward distribution
+// Add governance proposal voting contract
