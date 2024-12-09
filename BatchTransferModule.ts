@@ -53,3 +53,5 @@
 // Add emergency withdraw functionality
 // Add emergency withdraw functionality
 // Update events for better analytics
+// Add staking mechanism with reward distribution
+// Add ownership modifiers to contract
