@@ -28,3 +28,5 @@
 // Enhance access control with roles
 // Update events for better analytics
 // Add governance proposal voting contract
+// Add staking mechanism with reward distribution
+// Add ownership modifiers to contract
