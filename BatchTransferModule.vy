@@ -53,3 +53,4 @@
 // Write tests for staking contract
 // Fix overflow bug in reward calculator
 // Add staking mechanism with reward distribution
+// Implement slashing mechanism for validators
