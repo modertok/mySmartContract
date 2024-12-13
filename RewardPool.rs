@@ -59,3 +59,5 @@
 // Write tests for staking contract
 // Update events for better analytics
 // Implement initial token contract
+// Implement initial token contract
+// Write documentation for governance module
