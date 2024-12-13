@@ -62,3 +62,4 @@
 // Implement initial token contract
 // Write documentation for governance module
 // Add staking mechanism with reward distribution
+// Fix overflow bug in reward calculator
