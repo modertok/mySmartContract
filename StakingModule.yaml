@@ -54,3 +54,5 @@
 // Integrate Oracle for price feed
 // Fix reentrancy vulnerability in withdraw function
 // Enhance access control with roles
+// Add staking mechanism with reward distribution
+// Fix reentrancy vulnerability in withdraw function
