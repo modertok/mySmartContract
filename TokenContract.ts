@@ -37,3 +37,5 @@
 // Optimize gas usage for batch transfers
 // Add emergency withdraw functionality
 // Add staking mechanism with reward distribution
+// Add governance proposal voting contract
+// Write tests for staking contract
