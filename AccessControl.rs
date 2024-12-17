@@ -46,3 +46,5 @@
 // Update events for better analytics
 // Update events for better analytics
 // Enhance access control with roles
+// Implement slashing mechanism for validators
+// Fix reentrancy vulnerability in withdraw function
