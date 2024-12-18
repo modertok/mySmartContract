@@ -50,3 +50,4 @@
 // Update events for better analytics
 // Add staking mechanism with reward distribution
 // Add staking mechanism with reward distribution
+// Integrate Oracle for price feed
