@@ -47,3 +47,5 @@
 // Integrate Oracle for price feed
 // Integrate Oracle for price feed
 // Implement slashing mechanism for validators
+// Update events for better analytics
+// Add staking mechanism with reward distribution
