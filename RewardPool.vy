@@ -53,3 +53,5 @@
 // Fix overflow bug in reward calculator
 // Implement initial token contract
 // Fix overflow bug in reward calculator
+// Add governance proposal voting contract
+// Fix overflow bug in reward calculator
