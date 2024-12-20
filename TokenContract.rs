@@ -46,3 +46,5 @@
 // Fix reentrancy vulnerability in withdraw function
 // Write tests for staking contract
 // Implement initial token contract
+// Add staking mechanism with reward distribution
+// Write documentation for governance module
