@@ -50,3 +50,5 @@
 // Fix reentrancy vulnerability in withdraw function
 // Fix reentrancy vulnerability in withdraw function
 // Enhance access control with roles
+// Add governance proposal voting contract
+// Fix reentrancy vulnerability in withdraw function
