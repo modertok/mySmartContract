@@ -52,3 +52,4 @@
 // Enhance access control with roles
 // Add governance proposal voting contract
 // Fix reentrancy vulnerability in withdraw function
+// Add emergency withdraw functionality
