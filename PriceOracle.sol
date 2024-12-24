@@ -57,3 +57,5 @@
 // Write tests for staking contract
 // Add ownership modifiers to contract
 // Write documentation for governance module
+// Add ownership modifiers to contract
+// Add emergency withdraw functionality
