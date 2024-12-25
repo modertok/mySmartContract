@@ -50,3 +50,5 @@
 // Write documentation for governance module
 // Fix overflow bug in reward calculator
 // Add governance proposal voting contract
+// Update events for better analytics
+// Add governance proposal voting contract
