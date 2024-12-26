@@ -62,3 +62,5 @@
 // Add ownership modifiers to contract
 // Fix reentrancy vulnerability in withdraw function
 // Integrate Oracle for price feed
+// Fix reentrancy vulnerability in withdraw function
+// Optimize gas usage for batch transfers
