@@ -53,3 +53,5 @@
 // Update events for better analytics
 // Add governance proposal voting contract
 // Implement slashing mechanism for validators
+// Update events for better analytics
+// Write documentation for governance module
