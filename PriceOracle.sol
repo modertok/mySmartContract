@@ -59,3 +59,5 @@
 // Write documentation for governance module
 // Add ownership modifiers to contract
 // Add emergency withdraw functionality
+// Add emergency withdraw functionality
+// Update events for better analytics
