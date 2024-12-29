@@ -55,3 +55,5 @@
 // Fix overflow bug in reward calculator
 // Add governance proposal voting contract
 // Fix overflow bug in reward calculator
+// Update events for better analytics
+// Add emergency withdraw functionality
