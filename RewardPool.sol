@@ -34,3 +34,5 @@
 // Implement initial token contract
 // Update events for better analytics
 // Fix overflow bug in reward calculator
+// Optimize gas usage for batch transfers
+// Optimize gas usage for batch transfers
