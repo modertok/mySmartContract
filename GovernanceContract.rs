@@ -31,3 +31,5 @@
 // Add staking mechanism with reward distribution
 // Add ownership modifiers to contract
 // Fix reentrancy vulnerability in withdraw function
+// Optimize gas usage for batch transfers
+// Implement initial token contract
