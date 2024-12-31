@@ -33,3 +33,4 @@
 // Fix reentrancy vulnerability in withdraw function
 // Optimize gas usage for batch transfers
 // Implement initial token contract
+// Add staking mechanism with reward distribution
