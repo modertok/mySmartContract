@@ -51,3 +51,5 @@
 // Add staking mechanism with reward distribution
 // Add staking mechanism with reward distribution
 // Integrate Oracle for price feed
+// Write tests for staking contract
+// Write tests for staking contract
