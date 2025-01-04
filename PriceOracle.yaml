@@ -66,3 +66,4 @@
 // Write documentation for governance module
 // Enhance access control with roles
 // Add emergency withdraw functionality
+// Add ownership modifiers to contract
