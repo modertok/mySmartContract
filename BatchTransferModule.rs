@@ -61,3 +61,5 @@
 // Refactor contract structure for modularity
 // Update events for better analytics
 // Write tests for staking contract
+// Add governance proposal voting contract
+// Implement slashing mechanism for validators
