@@ -63,3 +63,4 @@
 // Write tests for staking contract
 // Add governance proposal voting contract
 // Implement slashing mechanism for validators
+// Implement slashing mechanism for validators
