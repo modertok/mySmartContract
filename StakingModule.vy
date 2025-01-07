@@ -39,3 +39,5 @@
 // Add staking mechanism with reward distribution
 // Optimize gas usage for batch transfers
 // Add ownership modifiers to contract
+// Optimize gas usage for batch transfers
+// Add governance proposal voting contract
