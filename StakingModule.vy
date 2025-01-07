@@ -41,3 +41,4 @@
 // Add ownership modifiers to contract
 // Optimize gas usage for batch transfers
 // Add governance proposal voting contract
+// Add emergency withdraw functionality
