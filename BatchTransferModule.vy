@@ -57,3 +57,4 @@
 // Integrate Oracle for price feed
 // Refactor contract structure for modularity
 // Enhance access control with roles
+// Optimize gas usage for batch transfers
