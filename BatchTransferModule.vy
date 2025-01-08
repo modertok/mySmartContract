@@ -54,3 +54,5 @@
 // Fix overflow bug in reward calculator
 // Add staking mechanism with reward distribution
 // Implement slashing mechanism for validators
+// Integrate Oracle for price feed
+// Refactor contract structure for modularity
