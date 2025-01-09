@@ -52,3 +52,5 @@
 // Fix reentrancy vulnerability in withdraw function
 // Add emergency withdraw functionality
 // Write documentation for governance module
+// Implement slashing mechanism for validators
+// Integrate Oracle for price feed
