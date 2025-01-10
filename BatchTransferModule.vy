@@ -60,3 +60,4 @@
 // Optimize gas usage for batch transfers
 // Write documentation for governance module
 // Add emergency withdraw functionality
+// Refactor contract structure for modularity
