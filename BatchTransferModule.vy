@@ -61,3 +61,4 @@
 // Write documentation for governance module
 // Add emergency withdraw functionality
 // Refactor contract structure for modularity
+// Add ownership modifiers to contract
