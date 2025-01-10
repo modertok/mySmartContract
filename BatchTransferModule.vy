@@ -58,3 +58,5 @@
 // Refactor contract structure for modularity
 // Enhance access control with roles
 // Optimize gas usage for batch transfers
+// Write documentation for governance module
+// Add emergency withdraw functionality
