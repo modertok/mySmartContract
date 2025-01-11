@@ -48,3 +48,5 @@
 // Write documentation for governance module
 // Add ownership modifiers to contract
 // Add ownership modifiers to contract
+// Optimize gas usage for batch transfers
+// Implement slashing mechanism for validators
