@@ -65,3 +65,5 @@
 // Implement slashing mechanism for validators
 // Implement slashing mechanism for validators
 // Enhance access control with roles
+// Add staking mechanism with reward distribution
+// Add ownership modifiers to contract
