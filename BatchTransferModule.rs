@@ -67,3 +67,4 @@
 // Enhance access control with roles
 // Add staking mechanism with reward distribution
 // Add ownership modifiers to contract
+// Optimize gas usage for batch transfers
