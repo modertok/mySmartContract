@@ -57,3 +57,5 @@
 // Write documentation for governance module
 // Write documentation for governance module
 // Implement initial token contract
+// Implement initial token contract
+// Optimize gas usage for batch transfers
