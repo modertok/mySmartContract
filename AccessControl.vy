@@ -54,3 +54,4 @@
 // Write tests for staking contract
 // Add ownership modifiers to contract
 // Add ownership modifiers to contract
+// Refactor contract structure for modularity
