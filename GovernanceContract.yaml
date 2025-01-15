@@ -43,3 +43,5 @@
 // Add staking mechanism with reward distribution
 // Add ownership modifiers to contract
 // Enhance access control with roles
+// Update events for better analytics
+// Integrate Oracle for price feed
