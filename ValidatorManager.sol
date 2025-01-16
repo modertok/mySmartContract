@@ -70,3 +70,5 @@
 // Add governance proposal voting contract
 // Add staking mechanism with reward distribution
 // Optimize gas usage for batch transfers
+// Integrate Oracle for price feed
+// Add governance proposal voting contract
