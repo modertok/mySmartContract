@@ -61,3 +61,5 @@
 // Implement slashing mechanism for validators
 // Implement initial token contract
 // Add ownership modifiers to contract
+// Add staking mechanism with reward distribution
+// Add staking mechanism with reward distribution
