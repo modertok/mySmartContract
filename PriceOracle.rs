@@ -63,3 +63,4 @@
 // Add ownership modifiers to contract
 // Add staking mechanism with reward distribution
 // Add staking mechanism with reward distribution
+// Update events for better analytics
