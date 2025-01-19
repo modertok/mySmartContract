@@ -46,3 +46,5 @@
 // Update events for better analytics
 // Integrate Oracle for price feed
 // Add emergency withdraw functionality
+// Refactor contract structure for modularity
+// Write documentation for governance module
