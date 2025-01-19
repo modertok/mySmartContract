@@ -49,3 +49,4 @@
 // Refactor contract structure for modularity
 // Write documentation for governance module
 // Write tests for staking contract
+// Fix overflow bug in reward calculator
