@@ -59,3 +59,5 @@
 // Add emergency withdraw functionality
 // Add governance proposal voting contract
 // Fix overflow bug in reward calculator
+// Write documentation for governance module
+// Add governance proposal voting contract
