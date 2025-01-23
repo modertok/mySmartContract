@@ -72,3 +72,5 @@
 // Optimize gas usage for batch transfers
 // Integrate Oracle for price feed
 // Add governance proposal voting contract
+// Write documentation for governance module
+// Optimize gas usage for batch transfers
