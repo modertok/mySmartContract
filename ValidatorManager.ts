@@ -51,3 +51,5 @@
 // Optimize gas usage for batch transfers
 // Implement slashing mechanism for validators
 // Add emergency withdraw functionality
+// Add emergency withdraw functionality
+// Enhance access control with roles
