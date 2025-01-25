@@ -53,3 +53,5 @@
 // Add governance proposal voting contract
 // Fix reentrancy vulnerability in withdraw function
 // Add emergency withdraw functionality
+// Optimize gas usage for batch transfers
+// Fix overflow bug in reward calculator
