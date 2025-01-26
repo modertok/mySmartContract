@@ -47,3 +47,5 @@
 // Enhance access control with roles
 // Add ownership modifiers to contract
 // Implement initial token contract
+// Implement slashing mechanism for validators
+// Refactor contract structure for modularity
