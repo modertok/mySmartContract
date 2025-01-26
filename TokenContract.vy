@@ -50,3 +50,4 @@
 // Implement slashing mechanism for validators
 // Refactor contract structure for modularity
 // Add emergency withdraw functionality
+// Add governance proposal voting contract
