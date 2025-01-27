@@ -53,3 +53,5 @@
 // Add emergency withdraw functionality
 // Add governance proposal voting contract
 // Fix reentrancy vulnerability in withdraw function
+// Add emergency withdraw functionality
+// Update events for better analytics
