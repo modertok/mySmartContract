@@ -55,3 +55,4 @@
 // Fix reentrancy vulnerability in withdraw function
 // Add emergency withdraw functionality
 // Update events for better analytics
+// Write tests for staking contract
