@@ -61,3 +61,5 @@
 // Add emergency withdraw functionality
 // Fix overflow bug in reward calculator
 // Implement initial token contract
+// Add governance proposal voting contract
+// Optimize gas usage for batch transfers
