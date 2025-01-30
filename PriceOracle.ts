@@ -47,3 +47,5 @@
 // Write tests for staking contract
 // Optimize gas usage for batch transfers
 // Update events for better analytics
+// Implement slashing mechanism for validators
+// Optimize gas usage for batch transfers
