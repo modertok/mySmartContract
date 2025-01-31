@@ -34,3 +34,5 @@
 // Optimize gas usage for batch transfers
 // Implement initial token contract
 // Add staking mechanism with reward distribution
+// Add emergency withdraw functionality
+// Fix overflow bug in reward calculator
