@@ -36,3 +36,4 @@
 // Add staking mechanism with reward distribution
 // Add emergency withdraw functionality
 // Fix overflow bug in reward calculator
+// Write documentation for governance module
