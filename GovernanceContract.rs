@@ -37,3 +37,4 @@
 // Add emergency withdraw functionality
 // Fix overflow bug in reward calculator
 // Write documentation for governance module
+// Refactor contract structure for modularity
