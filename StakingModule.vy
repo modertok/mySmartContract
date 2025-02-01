@@ -43,3 +43,5 @@
 // Add governance proposal voting contract
 // Add emergency withdraw functionality
 // Write documentation for governance module
+// Add emergency withdraw functionality
+// Optimize gas usage for batch transfers
