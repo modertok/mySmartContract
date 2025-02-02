@@ -63,3 +63,5 @@
 // Update events for better analytics
 // Fix reentrancy vulnerability in withdraw function
 // Write tests for staking contract
+// Update events for better analytics
+// Write documentation for governance module
